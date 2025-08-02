@@ -1,107 +1,70 @@
-<h1 align="center">👋 Hello, World. I’m <span style="color:#f97316;">Mohammed Qizar Bilal</span></h1>
+<h1 align="center">🚀 Qizar Bilal — Engineering the Future with Code, Curiosity & Courage 🌌</h1>
 
 <p align="center">
-  ⚡ Final-Year CSE Student | 🧠 AI Engineer in the Making | 💻 Python Craftsman | 🌐 Full-Stack Artisan
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Inventing+Tomorrow+with+Code...;AI+isn’t+just+a+tool+—+it's+my+canvas.;Shipping+Pixel-Perfect+Solutions+Every+Day+🚀" alt="Typing SVG" />
+  <i>“Code is not just syntax — it's a philosophy, a revolution, and a mirror to how I solve the world’s problems.”</i><br>
+  💡 Software Alchemist | ⚙️ Full-Stack Innovator | 🧠 AI Whisperer | 📈 Future Architect
 </p>
 
 ---
 
-### 🧬 Who Am I?
+### 🌟 Who Am I?
 
-> "I don't just write code — I engineer intelligent futures."
+```txt
+A systems thinker. A silent innovator. A digital dreamer.
+I don’t just code — I craft experiences, solve real-world chaos, and engineer logic into life.
+```
 
-- 🎓 Final-Year Computer Science Engineering student sculpting the intersection of **logic, creativity, and artificial intelligence**
-- 🧠 Architecting smart systems powered by **ML**, **Neural Networks**, and **Generative AI**
-- 🛠️ Builder of scalable web apps, AI tools, and research-backed platforms with real-world value
-- 🔬 Explorer of tech frontiers: **LLMs**, **AI Agents**, **Cognitive Architectures**, and **Semantic Search**
-- 🤝 Collaborator by heart, visionary by mind — driven to solve challenges that actually matter
+🎓 Final-year Computer Science Engineering student with a mission to build for the future
 
----
+🤖 Passionate about AI/ML, neural intelligence, and problem-solving that scales across industries
 
-### 🧠 Core Philosophy
+🧰 Architecting full-stack platforms that blend functionality, aesthetics, and performance
 
-> "True intelligence lies not just in prediction, but in intention."  
-> — Me, every time I refactor an AI pipeline or reimagine a user experience.
+🔍 Currently deep-diving into: AI Agents, Edge ML, Prompt Engineering, React-Native Ecosystems
 
----
+🌐 Shaping a world where machines understand emotion, and code empowers humanity
 
-### 🛠️ Tech Arsenal
+✍️ On a journey of constant creation — from startups to open-source — one byte at a time
 
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+🧠 Core Philosophy
+“Great code is invisible to the user but unforgettable to the experience.”
 
-#### 📚 Libraries & Frameworks
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Gemini+Flash_API-F9A825?style=for-the-badge)
+My focus isn’t just writing scalable code — it's creating impact.
+I build tools that solve, guide, and elevate.
 
-#### 🌐 Full Stack Toolkit
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask&logoColor=white)
+🧰 Tech Arsenal
+💻 Languages I Speak Fluently
 
----
 
-### 💎 Flagship Projects
 
-- 🔍 **[AI Resume Parser with Gemini Flash](https://github.com/qizarbilal/resume-parser)**  
-  <sub>Redefining recruitment with intelligent LLM-based resume analysis</sub>
 
-- 🧠 **[Dream Interpreter with Generative AI](https://github.com/qizarbilal/ai-dream-interpreter)**  
-  <sub>Research-grade neural interpretation of subconscious patterns (IEEE-style study)</sub>
 
-- 🌐 **[Tech Portfolio Website](https://github.com/qizarbilal/tech-portfolio)**  
-  <sub>Where personal branding meets real-time project discovery and user engagement</sub>
+⚙️ Tools, Libraries & Frameworks
 
-- 🎨 **[TaskMaster – Portfolio V2](https://github.com/qizarbilal/taskmaster)**  
-  <sub>Visual storytelling + smooth interactivity + scalable code = a portfolio that performs</sub>
 
----
 
-### 📊 Developer Metrics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qizarbilal&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=qizarbilal&theme=tokyonight" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qizarbilal&layout=compact&theme=tokyonight" />
-</p>
+📊 Data & AI Stack
 
----
 
-### 🔗 Connect with Me
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [linkedin.com/in/qizarbilal](https://www.linkedin.com/in/qizarbilal) |
-| 📸 Instagram | [@TheAICornerSpot](https://www.instagram.com/theaicornerspot) |
-| 📨 Email | [mohammedqizarbilal@gmail.com](mailto:mohammedqizarbilal@gmail.com) |
-| 🌐 Portfolio (Coming Soon) | [qizarbilal.dev](https://github.com/qizarbilal/tech-portfolio) |
 
----
 
-### 🌟 Spotlight
 
-> 🔥 I co-run **TheAICornerSpot** — a daily AI shorts hub on Instagram & LinkedIn  
-> 🎯 Passionate about real-world AI tools, community learning, and bold experimentation  
-> 🧪 Next goal: Building my own AI agent with autonomous workflow integration  
-> 📚 Currently learning: **LangChain**, **Semantic Vector DBs**, and **AI as Infrastructure**
+📈 GitHub Intelligence
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=qizarbilal&show_icons=true&theme=transparent&hide_border=true&icon_color=FF4655&title_color=FF4655" width="49%"/> <img src="https://streak-stats.demolab.com?user=qizarbilal&theme=dark&hide_border=true" width="49%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qizarbilal&layout=compact&theme=transparent&hide_border=true&langs_count=10" width="50%"/> </p>
+🚀 Signature Projects
+Project	Description	Tech Stack
+🛡️ AI-Powered Resume Parser	Smart parser that extracts, ranks, and matches resumes with job roles using Gemini 2.5 Flash	Python, NLP, Flask, OpenAI API
+🤖 DreamSense: Real-time Dream Interpreter	Maps neural patterns to dream visualizations using generative AI	Deep Learning, Neural Mapping, GANs
+🌐 Tech Portfolio Website	Interactive React portfolio showcasing skills, blogs & projects	React, Node, MongoDB, Tailwind
 
----
+🔗 Let's Collaborate & Connect
+<p align="center"> <a href="https://www.linkedin.com/in/qizarbilal"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://qizarbilal.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a> <a href="mailto:bilalqizar9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p>
+🧩 What’s Next?
+🚀 I’m open to internships, collaborations, and impact-driven opportunities — let’s build something extraordinary together.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qizarbilal&label=Profile+Views&color=orange&style=flat-square" />
-</p>
+💬 I love connecting with passionate people. If you’re working on something meaningful, I’d love to hear about it.
+
+“The code I write today might just empower the next revolution tomorrow.” — Qizar Bilal
