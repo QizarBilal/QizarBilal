@@ -68,16 +68,9 @@
 
 ---
 
-### 📊 My GitHub Universe
+### 🌌 My GitHub Universe – Where Code Meets Creativity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QizarBilal&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=QizarBilal&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QizarBilal&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=QizarBilal&show_icons=true&theme=radical&title_color=FF6B81&icon_color=FAD000&text_color=FDFDFD&bg_color=0D1117" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=QizarBilal&theme=radical&ring=FAD000&fire=F75C4C&currStreakLabel=FF6B81" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QizarBilal&layout=compact&theme=radical&title_color=FAD000&text_color=FDFDFD&bg_color=0D1117" width="40%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=tokyonight" width="95%" /> </p>
 
 ---
 
@@ -92,10 +85,13 @@
 
 ### 🌱 Currently Exploring
 
-- 🤖 Advanced Generative AI (OpenAI, Gemini)
-- 🌐 React Native for cross-platform development
-- 🔐 Blockchain & Web3 integration
-- 🕵️‍♂️ AI in cybersecurity & fraud detection
+- 🧱 Building full-stack apps using React + Next.js
+
+- 🚀 Learning backend magic with MongoDB + Node.js
+
+- 🧬 Sharpening AI skills with Python & machine learning
+
+- 🎨 Enhancing UI/UX precision using Figma & TailwindCSS
 
 ---
 
