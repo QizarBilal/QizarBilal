@@ -21,8 +21,9 @@
 
 ---
 
-🚀 Tech Arsenal – What I Work With
+### 🚀 Tech Arsenal – What I Work With
 🖥️ Languages I Speak (To Computers)
+
 ![HTML5](https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,29 +33,34 @@
 
 
 🎨 Frontend Craftsmanship
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-1E1E1E?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 🧠 Backend & Database Management
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 🛠️ Tools, Tech & Frameworks I Use
+
 ![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ⚙️ Extras That Elevate My Game
+
 ![UI/UX](https://img.shields.io/badge/UI/UX-FE4A49?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-212121?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Cloud Basics](https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 🧠 Soft Skills That Make Me Who I Am
+
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-1E88E5?style=for-the-badge)
 ![Adaptability](https://img.shields.io/badge/Adaptability-8E24AA?style=for-the-badge)
 ![Teamwork](https://img.shields.io/badge/Teamwork-43A047?style=for-the-badge)
