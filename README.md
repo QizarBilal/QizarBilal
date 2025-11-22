@@ -1,34 +1,35 @@
-<!-- =========================
-   Mohammed Qizar Bilal — Ultra-Premium README
-   Vibrant gradients • Clean layout • Recruiter-optimized
-========================= -->
+<!-- ============================================================
+   THE ULTRA-PREMIUM README FOR:
+   MOHAMMED QIZAR BILAL
+   Fully optimized for hiring, design, visibility, & branding
+=============================================================== -->
 
 <div align="center">
 
-<!-- Profile Image -->
+<!-- Profile Image (Hero) -->
 <p>
   <img src="/mnt/data/ProfilePicture.png" alt="Mohammed Qizar Bilal"
-       width="185" 
+       width="190" 
        style="border-radius:50%; border:6px solid transparent;
        background: linear-gradient(135deg,#00F5A0,#3BD1FF,#8A6BFF) border-box;
-       box-shadow: 0 15px 40px rgba(0,255,200,0.20), 
-                   0 8px 25px rgba(59,209,255,0.15), 
-                   0 5px 18px rgba(138,107,255,0.15);">
+       box-shadow: 0 18px 45px rgba(0,255,200,0.25),
+                   0 12px 28px rgba(59,209,255,0.22),
+                   0 10px 25px rgba(138,107,255,0.20);">
 </p>
 
 <h1 align="center" style="font-weight:900; margin-bottom:0;">
   Mohammed Qizar Bilal
 </h1>
 
-<p align="center" style="font-size:16px; margin-top:4px;">
+<p align="center" style="font-size:17px; margin-top:6px;">
   <b style="color:#00F5A0;">AI-Powered Developer</b> • 
   <b style="color:#3BD1FF;">Web Developer</b> • 
   <b style="color:#A47CFF;">Machine Learning Enthusiast</b>
 </p>
 
-<!-- Gradient Separator with Particles -->
-<div style="width:100%; max-width:820px; margin:18px auto;">
-  <svg width="100%" height="54" viewBox="0 0 1000 60" preserveAspectRatio="none">
+<!-- Enhanced Gradient Line with Premium Particles -->
+<div style="width:100%; max-width:860px; margin:22px auto;">
+  <svg width="100%" height="64" viewBox="0 0 1000 64" preserveAspectRatio="none">
     <defs>
       <linearGradient id="grad" x1="0" x2="1">
         <stop offset="0" stop-color="#00F5A0"/>
@@ -37,16 +38,16 @@
       </linearGradient>
     </defs>
 
-    <!-- Main Line -->
-    <rect x="0" y="25" width="1000" height="8" rx="4" fill="url(#grad)" opacity="0.25"/>
+    <!-- Main Glow Line -->
+    <rect x="0" y="28" width="1000" height="10" rx="5" fill="url(#grad)" opacity="0.32"/>
 
-    <!-- Particle Highlights -->
-    <circle cx="80" cy="30"  r="3.2" fill="#00F5A0"/>
-    <circle cx="200" cy="20" r="2.4" fill="#3BD1FF" opacity="0.9"/>
-    <circle cx="340" cy="33" r="3.5" fill="#A47CFF" opacity="0.9"/>
-    <circle cx="520" cy="18" r="3.0" fill="#FFD166"/>
-    <circle cx="720" cy="32" r="2.8" fill="#FF6584" opacity="0.9"/>
-    <circle cx="900" cy="15" r="2.6" fill="#7CF0A4"/>
+    <!-- Particle Highlights — enhanced variation -->
+    <circle cx="70"  cy="32" r="4"  fill="#00F5A0" opacity="0.95"/>
+    <circle cx="190" cy="24" r="3"  fill="#3BD1FF" opacity="0.9"/>
+    <circle cx="330" cy="36" r="4.2" fill="#A47CFF" opacity="0.9"/>
+    <circle cx="500" cy="20" r="4"  fill="#FFD166"/>
+    <circle cx="710" cy="34" r="3.5" fill="#FF6584" opacity="0.9"/>
+    <circle cx="890" cy="18" r="3.4" fill="#7CF0A4"/>
   </svg>
 </div>
 
@@ -54,38 +55,42 @@
 
 ---
 
-## ✨ Quick Snapshot (Recruiter-Friendly)
-- 🎓 **BE CSE**, Priyadarshini Engineering College — *CGPA: 8.8*  
-- 💼 **AIML Intern (IBM SkillsBuild)** + **Python Developer Intern**  
-- 🧠 **AI + Web Engineering:** ML models, full-stack apps, LLM-based tools  
-- 🔍 **Core Strengths:** Python, React, Flask, Streamlit, MySQL, MongoDB, UI/UX  
-- 🌐 **Portfolio:** https://mohammed-qizar-bilal.netlify.app  
-- ✉️ **Email:** bilalqizar@gmail.com  
+## ✨ Quick Snapshot (At-a-Glance)
+🎓 **BE CSE — Priyadarshini Engineering College** · CGPA: **8.8**  
+💼 **AIML Intern (IBM SkillsBuild)** & **Python Developer Intern**  
+🧠 Skilled in **AI, Web Development, ML pipelines, and intelligent tools**  
+⚙️ **Core Stack:** Python · React · Flask · Streamlit · MySQL · MongoDB · UI/UX  
+🌍 Portfolio → **https://mohammed-qizar-bilal.netlify.app**  
+📧 Email → **bilalqizar@gmail.com**
 
 ---
 
 ## 💡 About Me
-I’m a developer who loves turning intelligence into experience.  
-I build:
+I build **AI-first experiences** that combine intelligence, speed, and beautiful design.  
+My focus is on shipping real products that:
 
-- 🚀 **AI systems that make decisions understandable**  
-- 🎨 **Web interfaces that feel modern and intuitive**  
-- ⚙️ **ML flows that work in real-time, not just on paper**  
+- 🚀 **Explain decisions, not just make them**  
+- 🎨 **Blend design with engineering**  
+- ⚙️ **Run smoothly in real-time environments**  
 
-My mission?  
-✨ **Make technology smarter, faster, and beautifully usable.**
+💬 *If there’s a painful workflow — I automate it.*  
+💬 *If something needs intelligence — I enhance it.*  
+💬 *If a product needs life — I design it.*  
+
+My mission:  
+### 🌟 **Build technology that feels smart, human, and effortless.**
 
 ---
 
 ## 🧠 What I Build (High-Value Impact)
-- **AI-driven applications:** Resume parsers, job-role predictors, salary prediction models  
-- **Machine Learning dashboards:** Streamlit/Flask with real-time outputs  
-- **Automation tools:** Python scripts that optimize time & workflows  
-- **Modern frontends:** React interfaces built with UX intent  
+- **AI-driven applications** → Resume analyzers, job-match engines, salary predictors  
+- **Interactive ML dashboards** → Real-time Streamlit/Flask systems  
+- **Python automation tools** → API workflows, data cleaners, intelligent scripts  
+- **Modern web interfaces** → React apps built with thoughtful UX  
 
 ---
 
-## 🔥 Tech Stack (Color-Enhanced Badges)
+## 🔥 Tech Stack (Color-Enhanced)
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3A77F0?style=for-the-badge&logo=python&logoColor=white"/> 
@@ -101,90 +106,93 @@ My mission?
 ---
 
 ## 📚 Education
-**Bachelor of Engineering in Computer Science (2022–2026)**  
-Priyadarshini Engineering College · CGPA **8.8**  
-- Focus: AI, Cloud Computing, Software Development  
-- Experience with ML projects, automations & UI engineering  
+**Bachelor of Engineering (Computer Science)**  
+**Priyadarshini Engineering College (2022–2026)**  
+CGPA: **8.8**  
+Focus areas: AI · Cloud · ML · Software Development
 
 ---
 
 ## 🧩 Experience
 
 ### 🔹 AIML Intern — Edunet Foundation (IBM SkillsBuild)
-- Built an **AI Employee Salary Predictor** with ML pipelines  
-- Deployed a full Streamlit application  
-- Integrated preprocessing, model evaluation & visualization  
-
-### 🔹 Python Developer Intern — ShadowFox Inc.
-- Automated workflows using Python  
-- Integrated external APIs  
-- Improved backend performance and debugging  
+- Built an **AI salary prediction system**  
+- Implemented preprocessing, regression ML models, and visualization  
+- Designed & deployed a full Streamlit ML interface  
 
 ---
 
-## 🛠 Featured Projects (Elegant Cards)
+### 🔹 Python Developer Intern — ShadowFox Inc.
+- Developed **Python automation scripts**  
+- Integrated APIs for workflow optimization  
+- Improved backend efficiency & performed debugging  
+
+---
+
+## 🛠 Featured Projects
 
 ### 🎯 **AI-Powered Resume Parser**
-- LLM-powered extraction (skills, experience, role-fit)  
-- Job-score mapping for 15+ roles  
-- Full-stack build: Python, Flask, JS, HTML  
+- Extracts skills, experience & matches job roles  
+- Uses LLMs (Gemini) for intelligent scoring  
+- Stack: Python · Flask · HTML/CSS/JS  
 
 ---
 
 ### 📈 **Employee Salary Prediction System**
-- Regression ML model  
-- Real-time visualization  
+- Regression model for salary estimation  
+- Real-time UI using Streamlit  
 - Built during IBM SkillsBuild Internship  
 
 ---
 
 ### 🎮 **FreeFireXperTrade**
-- Full web app (HTML, CSS, JS, PHP)  
-- Gaming trading & insight portal  
-- Designed with black+gold premium UI  
+- Gaming marketplace + discovery platform  
+- Tech: HTML · CSS · JS · PHP  
+- Custom black–gold premium UI  
 
 ---
 
 ## 📈 GitHub Performance Highlights
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QizarBilal&theme=solarized_dark" width="300"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QizarBilal&theme=solarized_dark" width="300"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=solarized_dark" width="100%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QizarBilal&theme=tokyonight" width="300"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QizarBilal&theme=tokyonight" width="300"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=tokyonight" width="100%"/>
 </div>
 
 ---
 
 ## 🧪 How I Work
-1. Understand the user → define the problem  
-2. Build the model or logic  
-3. Design the experience (UI/UX)  
-4. Integrate ML + UI seamlessly  
-5. Ship fast, iterate faster  
+1. Understand the user → define the real problem  
+2. Build the ML or automation logic  
+3. Craft a clean & modern UI (React/Streamlit)  
+4. Blend AI + UX  
+5. Deploy, refine, iterate  
 
 ---
 
 ## 🌈 Enhanced UI Touches
-- Gradient accents across all sections  
-- SVG particle separators for a futuristic look  
-- Soft shadows and glowing borders  
-- Color psychology: *trust (blue)*, *innovation (teal)*, *creativity (purple)*  
+✔ Gradient accents  
+✔ Particle separators  
+✔ Soft ambient shadows  
+✔ 3-color developer palette (teal · aqua · violet)  
+✔ Consistent badge system  
+✔ Visual hierarchy optimized for recruiters  
 
-These elevate your profile into a **premium, hiring-ready GitHub brand**.
+This design makes your GitHub profile **feel premium, modern, and extremely hireable**.
 
 ---
 
 ## 📫 Connect With Me
 - ✉️ Email: **bilalqizar@gmail.com**  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/mohammed-qizar-bilal**  
-- 🌐 Portfolio: **https://mohammed-qizar-bilal.netlify.app**  
+- 🌐 Portfolio: **https://mohammed-qizar-bilal.netlify.app**
 
 ---
 
 <div align="center">
-  
-### ⭐ *Thanks for visiting my profile!*  
-If you’re hiring, collaborating, or building something ambitious —  
-I’m ready.
 
-  
+### ⭐ **Thanks for visiting my profile!**  
+If you’re hiring, innovating, or creating something meaningful —  
+**I’d love to be part of it.**
+
 </div>
