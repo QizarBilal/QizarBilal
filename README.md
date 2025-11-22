@@ -1,8 +1,13 @@
 <p align="center">
 <a href="https://github.com/QizarBilal">
-<img src="https://github.com/Vinaykumarmahato/Vinaykumarmahato/blob/main/Hi%2C%20I'm%20Vinay%20Kumar%20Mahato.gif"
+<img src="/mnt/data/gif.png"
 alt="Mohammed Qizar Bilal" style="border-radius: 10px;" />
 </a>
+</p>
+
+<p align="center">
+  <img src="/mnt/data/ProfilePicture.png" width="160" 
+  style="border-radius: 50%; border: 3px solid #0ef; box-shadow: 0 0 12px #0ef;">
 </p>
 
 <hr style="border: 1px solid white;">
@@ -22,33 +27,50 @@ alt="Mohammed Qizar Bilal" style="border-radius: 10px;" />
 
 
 ## 🌟 Professional Background
-- 💻 **Programming Languages:** _HTML5, CSS3, JavaScript, Python_
-- ️ **Frameworks:** _React.js, Flask, Streamlit_
-- 🚀 **Version Control:** _Git & GitHub_
-
-- ️ **Operating Systems:** _Windows, Linux_
-- 🤖 **AI & ML Tools:** _Prompt Engineering, Data Analysis, Model Training, IBM SkillsBuild ML Tools_ :contentReference[oaicite:2]{index=2}
+- 💻 **Programming Languages:** _Python, JavaScript, HTML5, CSS3_
+- 🚀 **Frameworks:** _React.js, Flask, Streamlit_
+- 🧠 **AI & ML Tools:** _Prompt Engineering, Model Training, Data Preprocessing, IBM SkillsBuild AI Tools_  
+- 🐍 **Python Development:** _APIs, Automation, Resume Parsing, ML Model Deployment_
 - 🐬 **Databases:** _MySQL, MongoDB_
-- 🌌 **IDEs:** _VS Code, PyCharm, Jupyter Notebook_
-- 🌐 **Web Technologies:** _HTML, CSS, JavaScript, REST APIs_
+- 🌐 **Web Technologies:** _HTML5, CSS3, JavaScript, REST APIs_
+- ⚙️ **Tools & IDEs:** _Git, GitHub, VS Code, Jupyter Notebook, PyCharm_
+- 🎨 **UI/UX:** _Figma, Interaction Design, Modern Responsive Layouts_
 
 ## 🎥 YouTube Channel
-I create educational content around **AI, Web Development, UI/UX, and Python automation**, aiming to simplify complex topics for beginners and aspiring developers.
+I share insights on **AI-Powered Development**, **Web Development**, and **Machine Learning**, helping beginners understand real-world AI integration and project building with clarity and hands-on examples.
 
 ## ️ Technical Expertise
-With hands-on experience across web development, ML integration, and AI-powered automation, I specialize in building:
+With a strong foundation in **AI-driven development**, I build applications that combine:
 
-- 🧠 AI-driven applications (Resume Parsers, Predictive Models, Recommendation Systems)  
-- 🌐 Full-stack web interfaces with intuitive UI/UX  
-- ⚙️ Real-world ML deployments using Streamlit & Flask  
-- 📊 Data pipelines, preprocessing, and visualization  
+- 🔥 **Machine Learning + Web Apps**  
+- 🧩 **AI-Powered Resume Analysis Systems**  
+- 🌐 **Modern full-stack interfaces**  
+- 📊 **Data visualization, model evaluation, predictive analytics**  
+- 🛠️ **User-centered UI/UX workflows**  
 
-I actively work on **AI-powered productivity tools**, merging creativity with technical implementation. :contentReference[oaicite:3]{index=3}
+I’m passionate about creating tools that simplify life and increase productivity using AI.
 
-## 📚 Teaching & Collaboration
-I enjoy mentoring peers, collaborating on tech projects, and solving real-world problems using a mix of AI and modern web technologies.
+## 📚 Experience & Background
 
-Feel free to explore my repositories — let’s innovate together! 🚀
+### **AIML Intern — Edunet Foundation (IBM SkillsBuild)**  
+- Built an **AI-powered Employee Salary Prediction System**  
+- Deployed using **Python + Streamlit**  
+- Worked on **data preprocessing, regression models, evaluation metrics**  
+- Delivered a fully functional web application for non-technical users  
+
+### **Python Developer Intern — ShadowFox Inc.**  
+- Developed **automation scripts** integrating APIs  
+- Improved code performance and debugging workflows  
+- Contributed to backend enhancements and optimization  
+
+### **AI-Powered Resume Parser — Project**  
+- Engineered a **Google Gemini AI–powered Resume Analyzer**  
+- Extracts skills, evaluates resumes & recommends job roles  
+- Built smart **Job Role Matching** for 15+ profiles  
+- Tech stack: **Flask, Python, HTML/CSS/JS**
+
+Feel free to explore my GitHub — let’s build something amazing together! 🚀
+
 
 <br>
 
@@ -118,7 +140,7 @@ style="width: 80px; height: 40px; border: 4px solid #ffd700; border-radius: 10px
 <img width="120px" height="120px" src="https://assets.leetcode.com/static_assets/marketing/lg50.png"/>
 </p>
 
-## ✍️ Random Qizar Bilal Developer Quotes
+## ✍️ Random Mohammed Qizar Bilal Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
