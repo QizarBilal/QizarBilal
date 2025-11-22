@@ -1,44 +1,52 @@
 <!-- =========================
-   Mohammed Qizar Bilal — Colorful Premium README
-   - Uses local profile image: /mnt/data/ProfilePicture.png
-   - Vibrant gradients, SVG particle accents, colorful badges
-   ========================= -->
+   Mohammed Qizar Bilal — Ultra-Premium README
+   Vibrant gradients • Clean layout • Recruiter-optimized
+========================= -->
 
 <div align="center">
 
-<!-- Profile Image (hero) -->
+<!-- Profile Image -->
 <p>
   <img src="/mnt/data/ProfilePicture.png" alt="Mohammed Qizar Bilal"
-       width="180" style="border-radius:50%; border:6px solid; 
-       border-image: linear-gradient(45deg,#00F5A0,#3BD1FF) 1; box-shadow: 0 10px 30px rgba(11,122,255,0.18);">
+       width="185" 
+       style="border-radius:50%; border:6px solid transparent;
+       background: linear-gradient(135deg,#00F5A0,#3BD1FF,#8A6BFF) border-box;
+       box-shadow: 0 15px 40px rgba(0,255,200,0.20), 
+                   0 8px 25px rgba(59,209,255,0.15), 
+                   0 5px 18px rgba(138,107,255,0.15);">
 </p>
 
-<!-- Name + Tagline -->
-<h1 style="margin:6px 0 0 0; font-weight:700; letter-spacing:0.4px;">
+<h1 align="center" style="font-weight:900; margin-bottom:0;">
   Mohammed Qizar Bilal
 </h1>
-<p style="margin:6px 0 18px 0; font-size:15px; color:#9aa6b2;">
-  AI-Powered Developer · Web Developer · Machine Learning Enthusiast
+
+<p align="center" style="font-size:16px; margin-top:4px;">
+  <b style="color:#00F5A0;">AI-Powered Developer</b> • 
+  <b style="color:#3BD1FF;">Web Developer</b> • 
+  <b style="color:#A47CFF;">Machine Learning Enthusiast</b>
 </p>
 
-<!-- Gradient separator with particles (inline SVG) -->
-<div style="width:100%; max-width:760px; margin: 12px auto 22px auto;">
-  <svg width="100%" height="40" viewBox="0 0 1000 40" preserveAspectRatio="none">
+<!-- Gradient Separator with Particles -->
+<div style="width:100%; max-width:820px; margin:18px auto;">
+  <svg width="100%" height="54" viewBox="0 0 1000 60" preserveAspectRatio="none">
     <defs>
-      <linearGradient id="g" x1="0" x2="1">
+      <linearGradient id="grad" x1="0" x2="1">
         <stop offset="0" stop-color="#00F5A0"/>
         <stop offset="0.5" stop-color="#3BD1FF"/>
-        <stop offset="1" stop-color="#8A6BFF"/>
+        <stop offset="1" stop-color="#A47CFF"/>
       </linearGradient>
     </defs>
-    <rect x="0" y="6" width="1000" height="8" rx="6" fill="url(#g)" opacity="0.15"/>
-    <!-- colorful particles -->
-    <circle cx="60" cy="20" r="2.5" fill="#00F5A0" opacity="0.9"/>
-    <circle cx="140" cy="12" r="1.8" fill="#3BD1FF" opacity="0.85"/>
-    <circle cx="260" cy="26" r="3.0" fill="#8A6BFF" opacity="0.8"/>
-    <circle cx="420" cy="16" r="2.2" fill="#FFD166" opacity="0.95"/>
-    <circle cx="720" cy="22" r="1.6" fill="#FF6584" opacity="0.85"/>
-    <circle cx="900" cy="10" r="2.0" fill="#7CF0A4" opacity="0.9"/>
+
+    <!-- Main Line -->
+    <rect x="0" y="25" width="1000" height="8" rx="4" fill="url(#grad)" opacity="0.25"/>
+
+    <!-- Particle Highlights -->
+    <circle cx="80" cy="30"  r="3.2" fill="#00F5A0"/>
+    <circle cx="200" cy="20" r="2.4" fill="#3BD1FF" opacity="0.9"/>
+    <circle cx="340" cy="33" r="3.5" fill="#A47CFF" opacity="0.9"/>
+    <circle cx="520" cy="18" r="3.0" fill="#FFD166"/>
+    <circle cx="720" cy="32" r="2.8" fill="#FF6584" opacity="0.9"/>
+    <circle cx="900" cy="15" r="2.6" fill="#7CF0A4"/>
   </svg>
 </div>
 
@@ -46,102 +54,137 @@
 
 ---
 
-## ✨ Quick Snapshot
-- 🎯 **Role:** AI-Powered Developer (BE CSE — Priyadarshini Engineering College) :contentReference[oaicite:2]{index=2}  
-- 🧾 **Contact:** bilalqizar@gmail.com • +91 8925426680 • [Portfolio](https://mohammed-qizar-bilal.netlify.app) :contentReference[oaicite:3]{index=3}  
-- 🛠️ **Core:** Python · React · Flask · Streamlit · ML · Prompt Engineering · MySQL · MongoDB
+## ✨ Quick Snapshot (Recruiter-Friendly)
+- 🎓 **BE CSE**, Priyadarshini Engineering College — *CGPA: 8.8*  
+- 💼 **AIML Intern (IBM SkillsBuild)** + **Python Developer Intern**  
+- 🧠 **AI + Web Engineering:** ML models, full-stack apps, LLM-based tools  
+- 🔍 **Core Strengths:** Python, React, Flask, Streamlit, MySQL, MongoDB, UI/UX  
+- 🌐 **Portfolio:** https://mohammed-qizar-bilal.netlify.app  
+- ✉️ **Email:** bilalqizar@gmail.com  
 
 ---
 
-## 💡 About — Short & Powerful
-I build **AI-first applications** and elegant web experiences that solve real problems. I combine practical ML pipelines with polished frontends so models are usable, interpretable, and accessible to everyone — not just data scientists. I enjoy taking a raw idea and shipping an end-to-end product that people can use today.
+## 💡 About Me
+I’m a developer who loves turning intelligence into experience.  
+I build:
+
+- 🚀 **AI systems that make decisions understandable**  
+- 🎨 **Web interfaces that feel modern and intuitive**  
+- ⚙️ **ML flows that work in real-time, not just on paper**  
+
+My mission?  
+✨ **Make technology smarter, faster, and beautifully usable.**
 
 ---
 
-## 🔶 What I Build (high level)
-- **AI-driven tools:** Resume parsers, job-matching engines, predictive models. :contentReference[oaicite:4]{index=4}  
-- **Interactive web apps:** Streamlit + Flask dashboards for ML prototypes. :contentReference[oaicite:5]{index=5}  
-- **Automation & data tooling:** Python scripts that integrate APIs and streamline workflows. :contentReference[oaicite:6]{index=6}
+## 🧠 What I Build (High-Value Impact)
+- **AI-driven applications:** Resume parsers, job-role predictors, salary prediction models  
+- **Machine Learning dashboards:** Streamlit/Flask with real-time outputs  
+- **Automation tools:** Python scripts that optimize time & workflows  
+- **Modern frontends:** React interfaces built with UX intent  
 
 ---
 
-## 🔥 Tech Stack (colorful badges)
+## 🔥 Tech Stack (Color-Enhanced Badges)
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=#61DAFB" /> 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3A77F0?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black"/> 
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F15035?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
 ## 📚 Education
-**Bachelor of Engineering (CSE)** — Priyadarshini Engineering College (Nov 2022 — July 2026) · CGPA: 8.8.  
-Specialized in software development, cloud computing, and AI-driven systems. :contentReference[oaicite:7]{index=7}
+**Bachelor of Engineering in Computer Science (2022–2026)**  
+Priyadarshini Engineering College · CGPA **8.8**  
+- Focus: AI, Cloud Computing, Software Development  
+- Experience with ML projects, automations & UI engineering  
 
 ---
 
-## 🧩 Experience (select highlights)
-### AIML Intern — *Edunet Foundation* (IBM SkillsBuild)  
-- Built an **AI Employee Salary Prediction** system and deployed a Streamlit app. Implemented data preprocessing, model training, and visual evaluation dashboards. :contentReference[oaicite:8]{index=8}
+## 🧩 Experience
 
-### Python Developer Intern — *ShadowFox Inc.*  
-- Created automation scripts, integrated APIs, and improved backend performance. Collaborated on debugging and system improvements. :contentReference[oaicite:9]{index=9}
+### 🔹 AIML Intern — Edunet Foundation (IBM SkillsBuild)
+- Built an **AI Employee Salary Predictor** with ML pipelines  
+- Deployed a full Streamlit application  
+- Integrated preprocessing, model evaluation & visualization  
 
----
-
-## 🛠 Featured Projects (colorful cards)
-
-### 🎯 AI-Powered Resume Parser  
-- **What:** LLM-powered resume analyzer (skill extraction, scoring, role matching).  
-- **Tech:** Python, Flask, Google Gemini LLM (integration), HTML/CSS/JS.  
-- **Why:** Bridges raw resumes → actionable job suggestions, tailored improvement tips. :contentReference[oaicite:10]{index=10}
-
-### 📈 Employee Salary Prediction System  
-- **What:** Regression-based salary estimator with a Streamlit UI.  
-- **Tech:** Python, Pandas, scikit-learn, Streamlit.  
-- **Why:** Practical tool built during IBM SkillsBuild to show real-world ML deployment. :contentReference[oaicite:11]{index=11}
-
-### 🎮 FreeFireXperTrade  
-- **What:** Gaming-focused portal (trading & insights).  
-- **Tech:** HTML, CSS, JS, PHP.  
-- **Why:** Real-world frontend & backend integration with a polished UX. :contentReference[oaicite:12]{index=12}
+### 🔹 Python Developer Intern — ShadowFox Inc.
+- Automated workflows using Python  
+- Integrated external APIs  
+- Improved backend performance and debugging  
 
 ---
 
-## 📈 GitHub Highlights
+## 🛠 Featured Projects (Elegant Cards)
+
+### 🎯 **AI-Powered Resume Parser**
+- LLM-powered extraction (skills, experience, role-fit)  
+- Job-score mapping for 15+ roles  
+- Full-stack build: Python, Flask, JS, HTML  
+
+---
+
+### 📈 **Employee Salary Prediction System**
+- Regression ML model  
+- Real-time visualization  
+- Built during IBM SkillsBuild Internship  
+
+---
+
+### 🎮 **FreeFireXperTrade**
+- Full web app (HTML, CSS, JS, PHP)  
+- Gaming trading & insight portal  
+- Designed with black+gold premium UI  
+
+---
+
+## 📈 GitHub Performance Highlights
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QizarBilal&theme=dark" width="300"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QizarBilal&theme=dark" width="300"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=QizarBilal&theme=solarized_dark" width="300"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=QizarBilal&theme=solarized_dark" width="300"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=solarized_dark" width="100%"/>
 </div>
 
 ---
 
-## 🧪 How I Work — Process
-1. Problem framing & data exploration  
-2. Rapid prototyping (notebooks → APIs)  
-3. UX-first frontends (Streamlit/React)  
-4. Iterate with tests & small experiments  
-5. Deploy and document for others to use
+## 🧪 How I Work
+1. Understand the user → define the problem  
+2. Build the model or logic  
+3. Design the experience (UI/UX)  
+4. Integrate ML + UI seamlessly  
+5. Ship fast, iterate faster  
 
 ---
 
-## 🌈 Aesthetic Extras (non-blocking)
-- Colorful, consistent badges across stack  
-- SVG particle accents near section headings for a modern feel  
-- Subtle gradient borders for key callouts  
-(These are included above and are GitHub-safe)
+## 🌈 Enhanced UI Touches
+- Gradient accents across all sections  
+- SVG particle separators for a futuristic look  
+- Soft shadows and glowing borders  
+- Color psychology: *trust (blue)*, *innovation (teal)*, *creativity (purple)*  
+
+These elevate your profile into a **premium, hiring-ready GitHub brand**.
 
 ---
 
-## 📫 Get in Touch
-- ✉️ Email: **bilalqizar@gmail.com** :contentReference[oaicite:13]{index=13}  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/mohammed-qizar-bilal** :contentReference[oaicite:14]{index=14}  
-- 🌐 Portfolio: **https://mohammed-qizar-bilal.netlify.app** :contentReference[oaicite:15]{index=15}
+## 📫 Connect With Me
+- ✉️ Email: **bilalqizar@gmail.com**  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/mohammed-qizar-bilal**  
+- 🌐 Portfolio: **https://mohammed-qizar-bilal.netlify.app**  
 
 ---
+
+<div align="center">
+  
+### ⭐ *Thanks for visiting my profile!*  
+If you’re hiring, collaborating, or building something ambitious —  
+I’m ready.
+
+  
+</div>
