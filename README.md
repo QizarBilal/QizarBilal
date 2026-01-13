@@ -1,63 +1,59 @@
-<!--
-════════════════════════════════════════════════════════════
-  Mohammed Qizar Bilal
-  Software Development Engineer Aspirant
-  Precision-crafted, FAANG-viewer optimized GitHub Profile
-════════════════════════════════════════════════════════════
--->
+<!-- =========================================================
+   Mohammed Qizar Bilal | Software Development Engineer Aspirant
+   Visual • Professional • Recruiter-Optimized GitHub Profile
+========================================================= -->
 
 <div align="center">
 
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:22C55E&height=180&section=header&text=Hi%20I'm%20Mohammed%20Qizar%20Bilal&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+
+<br/>
+
+<!-- Profile Image -->
 <img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/main/assets/Profile.png"
-     width="155"
-     style="border-radius:50%;" />
+     width="160"
+     style="border-radius:50%; border:4px solid #2563EB;" />
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Software+Development+Engineer+Aspirant;Builder+of+Real-World+Systems;Engineering+with+Clarity+and+Intent" />
+<!-- Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Software+Development+Engineer+Aspirant;Builder+of+Real-World+Systems;Focused+on+Clarity%2C+Scale+and+Impact" />
 
 <br/>
 
 <p>
-<strong>Mohammed Qizar Bilal</strong><br/>
-<span style="color:#2563EB;">Engineering-first • Product-minded • Execution-driven</span>
-</p>
-
-<p>
-📍 India &nbsp;•&nbsp; 🎓 BE CSE (Anna University) &nbsp;•&nbsp; 💻 Full-Stack (Backend-leaning)
+<strong>📍 India</strong> &nbsp;•&nbsp;
+<strong>🎓 BE CSE (Anna University)</strong> &nbsp;•&nbsp;
+<strong>💻 Full-Stack (Backend-leaning)</strong>
 </p>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=2563EB" />
-
-## 🧠 ABOUT (ENGINEERING IDENTITY)
+## 🧠 About Me
 
 <table>
 <tr>
-<td width="65%">
+<td width="70%">
 
-### Engineering Mindset
-I build software the way **production systems** are built —  
-with **clarity, structure, and long-term thinking**.
+I’m a **development-first engineer** who enjoys building **real, usable systems** — not just demos.
 
-I enjoy working close to:
-- system logic  
-- data flow  
-- real user constraints  
+My work revolves around:
+- writing clean, maintainable code  
+- designing scalable system logic  
+- solving problems that exist in the real world  
 
-I don’t chase tools or trends.  
-I **master fundamentals and execute**.
+I value **clarity over cleverness** and **execution over hype**.
 
 </td>
 
-<td width="35%" align="center">
+<td width="30%" align="center">
 
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Problem%20Solver-0F172A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Style-Clean%20Code-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Role-SDE%20Aspirant-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Engineering-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Builder-0F172A?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -65,24 +61,20 @@ I **master fundamentals and execute**.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0EA5E9" />
-
-## 🧩 WHAT I BUILD (PRODUCT VIEW)
+## 🧩 What I Build
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧱 Production-Ready Applications
-End-to-end systems with  
-clean UI and dependable backend logic.
+### 🧱 End-to-End Applications  
+Production-ready systems with clean UI and strong backend logic.
 
 </td>
 <td width="50%">
 
-### ⚙️ Python Systems
-Automation, APIs, data pipelines,  
-internal tools that reduce friction.
+### ⚙️ Python Systems  
+Automation, APIs, data pipelines, internal tools.
 
 </td>
 </tr>
@@ -90,16 +82,14 @@ internal tools that reduce friction.
 <tr>
 <td>
 
-### 🤖 AI-Assisted Products
-Used responsibly to enhance workflows —  
-not replace engineering judgment.
+### 🤖 AI-Assisted Products  
+Used responsibly to improve workflows — not replace engineering.
 
 </td>
 <td>
 
-### 🛠 Problem-Driven Solutions
-Every project starts with a real pain point,  
-not a demo idea.
+### 🛠 Problem-Driven Solutions  
+Every project starts with a real problem, not a trend.
 
 </td>
 </tr>
@@ -107,64 +97,35 @@ not a demo idea.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1" />
+## 💻 Tech Stack
 
-## 💻 TECH STACK (ENGINEERING SIGNALS)
-
-### 🧩 Languages
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 <p>
 <img src="https://skillicons.dev/icons?i=react,flask" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 </p>
 
-### 🗄 Databases
+### Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🧰 Engineering & Workflow
+### Engineering & Workflow
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Structures-334155?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-475569?style=flat-square"/>
-<img src="https://img.shields.io/badge/Agile%20Basics-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Structures-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-1E293B?style=flat-square"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=22C55E" />
-
-## 🎓 EDUCATION
-
-<table>
-<tr>
-<td>
-
-🎓 **BE — Computer Science & Engineering**  
-Priyadarshini Engineering College  
-Anna University  
-
-</td>
-<td>
-
-📅 **2022 – 2026**  
-📊 **CGPA: 8.8**
-
-</td>
-</tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B" />
-
-## 💼 EXPERIENCE (ENGINEER-GRADE)
+## 💼 Experience
 
 <table>
 <tr>
@@ -174,7 +135,7 @@ Anna University
 **Frontend Developer**  
 <sub>Sep 2025 – Dec 2025</sub>
 
-Built scalable React components, integrated APIs, and improved UI consistency and performance.
+Built scalable React components, integrated APIs, and improved UI consistency.
 
 </td>
 
@@ -183,7 +144,7 @@ Built scalable React components, integrated APIs, and improved UI consistency an
 ### 🟨 IBM SkillsBuild  
 **AIML Intern**
 
-Developed an end-to-end ML system including preprocessing, modeling, and Streamlit deployment.
+Developed a complete ML pipeline and deployed a Streamlit application.
 
 </td>
 
@@ -192,7 +153,7 @@ Developed an end-to-end ML system including preprocessing, modeling, and Streaml
 ### 🟪 ShadowFox Inc.  
 **Python Developer Intern**
 
-Built automation scripts, handled API integrations, and optimized backend workflows.
+Created automation scripts and optimized backend workflows.
 
 </td>
 </tr>
@@ -200,20 +161,14 @@ Built automation scripts, handled API integrations, and optimized backend workfl
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EF4444" />
-
-## 🚀 SELECTED PROJECTS (HIGH-ENGAGEMENT CARDS)
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧠 AI-Powered Resume Parser
-**What it does**  
-Extracts skills and experience, then matches resumes to job roles using intelligent scoring.
-
-**Why it matters**  
-Reduces manual resume screening and improves candidate shortlisting efficiency.
+### 🧠 AI-Powered Resume Parser  
+Automates resume analysis and job-role matching using intelligent scoring.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
@@ -223,15 +178,11 @@ Reduces manual resume screening and improves candidate shortlisting efficiency.
 
 <td width="50%">
 
-### 📈 Employee Salary Prediction System
-**What it does**  
-Predicts salary ranges using regression models with real-time interaction.
-
-**Why it matters**  
-Demonstrates applied ML with a deployment-ready interface.
+### 📈 Employee Salary Prediction  
+ML-based salary estimation system with real-time UI.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-2563EB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
 
 </td>
@@ -240,12 +191,8 @@ Demonstrates applied ML with a deployment-ready interface.
 <tr>
 <td colspan="2">
 
-### 🎮 FreeFireXperTrade
-**What it does**  
-Gaming marketplace and discovery platform with a premium UI.
-
-**Why it matters**  
-Shows frontend + backend integration and product-level thinking.
+### 🎮 FreeFireXperTrade  
+Gaming marketplace with premium UI and discovery features.
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square"/>
@@ -258,26 +205,7 @@ Shows frontend + backend integration and product-level thinking.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" />
-
-## 🧭 ENGINEERING PRINCIPLES
-
-<table>
-<tr>
-<td>🧠 Clarity over cleverness</td>
-<td>🧱 Structure beats shortcuts</td>
-</tr>
-<tr>
-<td>🔁 Iteration with intent</td>
-<td>🎯 User impact first</td>
-</tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=06B6D4" />
-
-## 📊 GITHUB ACTIVITY
+## 📊 GitHub Activity
 
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=github_dark" width="100%"/>
@@ -285,9 +213,7 @@ Shows frontend + backend integration and product-level thinking.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0EA5E9" />
-
-## 🤝 CONNECT
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -309,6 +235,6 @@ Shows frontend + backend integration and product-level thinking.
 
 <div align="center">
 <sub>
-Engineered with intent • Designed for impact • Built to last
+Built with intent • Focused on engineering • Designed to be remembered
 </sub>
 </div>
