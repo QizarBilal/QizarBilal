@@ -1,186 +1,243 @@
 <!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- Mohammed Qizar Bilal
- Software Development Engineer Aspirant
- Crafted for clarity, credibility, and impact
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+════════════════════════════════════════════════════════════
+  Mohammed Qizar Bilal
+  Software Development Engineer Aspirant
+  One-of-a-kind GitHub Profile Design
+════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/main/assets/Profile.png" width="150" style="border-radius:50%; margin-bottom:14px;" />
+<img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/main/assets/Profile.png"
+     width="155"
+     style="border-radius:50%;" />
 
-<h2>Mohammed Qizar Bilal</h2>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=520&lines=Software+Development+Engineer+Aspirant;Builder+of+Real-World+Systems;Problem+Solver+by+Design" />
+
+<br/>
 
 <p>
-<strong>Software Development Engineer Aspirant</strong><br/>
-Building reliable systems • Solving real problems • Engineering with intent
+<strong>Mohammed Qizar Bilal</strong><br/>
+<span style="color:#3B82F6;">Engineering-first • Product-minded • Execution-driven</span>
 </p>
 
 <p>
-📍 India &nbsp;•&nbsp; 🎓 BE CSE (Anna University) &nbsp;•&nbsp; 💻 Development-Focused
+📍 India &nbsp;&nbsp;•&nbsp;&nbsp; 🎓 BE CSE (Anna University) &nbsp;&nbsp;•&nbsp;&nbsp; 💻 Full-Stack & Backend-leaning
 </p>
 
 </div>
 
 ---
 
-## About
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B82F6" />
 
-<div>
+## 🧠 WHO I AM (VISUAL IDENTITY)
 
-I am a **development-first engineer** who focuses on building **practical, scalable, and maintainable software systems**.
+<table>
+<tr>
+<td width="50%">
 
-I care deeply about:
-- Writing clean, readable code  
-- Designing systems that scale  
-- Solving problems that matter  
-- Shipping software that actually works  
+🧩 **Development-First Engineer**  
+I focus on building systems that are usable, scalable, and maintainable.
 
-I don’t chase tools or trends —  
-I focus on **fundamentals, clarity, and execution**.
+⚙️ **Strong Engineering Fundamentals**  
+Data structures, clean code, APIs, and system thinking.
 
-</div>
+🚀 **Execution over Talk**  
+I ship working software, not just ideas.
 
-> *Great software feels simple — because the hard thinking is already done.*
+</td>
+<td width="50%">
+
+🎯 **What I Care About**
+- Clarity over cleverness  
+- Structure over shortcuts  
+- Impact over hype  
+
+🧠 *Good software feels obvious because the hard thinking is invisible.*
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I Build
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0EA5E9" />
 
-<div>
+## 🛠 WHAT I BUILD (ENGINEER VIEW)
 
-🧩 **End-to-End Applications**  
-&nbsp;&nbsp;&nbsp;→ Thoughtful UI backed by strong backend logic  
+<table>
+<tr>
+<td>
 
-⚙️ **Python Systems & Tooling**  
-&nbsp;&nbsp;&nbsp;→ Automation, data handling, internal tools  
+🧱 **End-to-End Applications**  
+Clean UI • Robust backend • Real users
+
+</td>
+<td>
+
+⚙️ **Python Systems**  
+Automation • Data pipelines • Tooling
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 🤖 **AI-Assisted Products**  
-&nbsp;&nbsp;&nbsp;→ Intelligence that improves workflows responsibly  
+Used responsibly to enhance workflows
+
+</td>
+<td>
 
 🛠 **Problem-Driven Projects**  
-&nbsp;&nbsp;&nbsp;→ Built for real users, not just demos  
+Built to solve real pain points
 
-</div>
-
----
-
-## Technical Stack
-
-### Languages
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</div>
-
-### Frameworks & Libraries
-<div>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-</div>
-
-### Databases
-<div>
-  <img src="https://img.shields.io/badge/MySQL-0B5ED7?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-1B3A2F?style=flat-square&logo=mongodb&logoColor=4CAF50"/>
-</div>
-
-### Software Engineering
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Structures-4B5563?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OOP-374151?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Agile%20Basics-2C7BE5?style=flat-square"/>
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=6366F1" />
 
-**Bachelor of Engineering — Computer Science & Engineering**  
-Priyadarshini Engineering College, Anna University  
-**2022 – 2026**  
-CGPA: **8.8**
+## 💻 TECH STACK (ENGINEERING SIGNALS)
 
----
+### 🧩 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
-## Experience
+### ⚙️ Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
 
-**Frontend Developer — Zidio Development**  
-*September 2025 – December 2025*  
-- Built responsive and scalable UI components using React  
-- Collaborated with backend teams for API integration  
-- Focused on performance, usability, and clean component design  
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-**AIML Intern — IBM SkillsBuild (Edunet Foundation)**  
-- Built an end-to-end salary prediction system  
-- Worked on preprocessing, ML modeling, and evaluation  
-- Designed and deployed a Streamlit-based interface  
-
-**Python Developer Intern — ShadowFox Inc.**  
-- Developed automation scripts and backend utilities  
-- Integrated APIs and optimized workflows  
-- Debugged and improved existing systems  
-
----
-
-## Selected Projects
-
-**AI-Powered Resume Parser**  
-→ Intelligent system that extracts candidate data and matches resumes to job roles  
-→ *Python • Flask • HTML • CSS • JavaScript*
-
-**Employee Salary Prediction System**  
-→ Machine learning-based salary estimation with real-time predictions  
-→ *Python • ML • Streamlit*
-
-**FreeFireXperTrade**  
-→ Gaming marketplace with discovery features and premium UI  
-→ *HTML • CSS • JavaScript • PHP*
+### 🧰 Engineering & Workflow
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Structures-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/OOP-475569?style=flat-square"/>
+</p>
 
 ---
 
-## Engineering Philosophy
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=22C55E" />
 
-<div>
+## 🎓 EDUCATION (CREDIBILITY)
 
-🧭 **Clarity over cleverness**  
-🧱 **Strong foundations scale better**  
-🔁 **Iterate with purpose**  
-🎯 **User impact comes first**  
+<table>
+<tr>
+<td>
 
-</div>
+🎓 **BE – Computer Science & Engineering**  
+Priyadarshini Engineering College  
+Anna University  
+
+</td>
+<td>
+
+📅 **2022 – 2026**  
+📊 **CGPA: 8.8**  
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Overview
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F59E0B" />
+
+## 💼 EXPERIENCE (REAL, NOT FLUFF)
+
+🟦 **Frontend Developer — Zidio Development**  
+<sub>Sep 2025 – Dec 2025</sub>  
+- Built scalable React UI components  
+- Integrated APIs with backend teams  
+- Focused on performance & UX consistency  
+
+🟨 **AIML Intern — IBM SkillsBuild (Edunet Foundation)**  
+- Built a salary prediction system end-to-end  
+- Data preprocessing, modeling, deployment  
+- Streamlit UI for real-time usage  
+
+🟪 **Python Developer Intern — ShadowFox Inc.**  
+- Automation scripts & backend utilities  
+- API integration & workflow optimization  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EF4444" />
+
+## 🚀 PROJECTS (BUILDER PROOF)
+
+🧠 **AI-Powered Resume Parser**  
+📌 Intelligent resume analysis & job matching  
+🛠 Python • Flask • Web Stack  
+
+📈 **Employee Salary Prediction System**  
+📌 ML-based prediction with live interface  
+🛠 Python • ML • Streamlit  
+
+🎮 **FreeFireXperTrade**  
+📌 Marketplace & discovery platform  
+🛠 HTML • CSS • JS • PHP  
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=8B5CF6" />
+
+## 🧭 ENGINEERING PRINCIPLES (VISUAL)
+
+<table>
+<tr>
+<td>🧠 Clarity before complexity</td>
+<td>🧱 Foundations over hacks</td>
+</tr>
+<tr>
+<td>🔁 Iterate with intent</td>
+<td>🎯 User impact first</td>
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=06B6D4" />
+
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=github_dark" width="100%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=github_dark" width="100%"/>
 </div>
 
 ---
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0EA5E9" />
+
+## 🤝 CONNECT (DESIGNED CTA)
 
 <div align="center">
 
 <a href="mailto:bilalqizar@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-qizar-bilal">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://mohammed-qizar-bilal.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
@@ -189,6 +246,6 @@ CGPA: **8.8**
 
 <div align="center">
 <sub>
-Built with intent • Focused on engineering • Always learning
+Engineered with intent • Designed for impact • Built to last
 </sub>
 </div>
