@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="/mnt/data/ProfilePicture.png" width="160" style="border-radius:50%" />
+<img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/main/assets/profile.png" width="160" style="border-radius:50%" />
 
 <h1>Hi there, I'm Mohammed Qizar Bilal 👋</h1>
 
