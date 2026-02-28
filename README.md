@@ -25,7 +25,7 @@
 <p>
 <strong>📍 India</strong> &nbsp;•&nbsp;
 <strong>🎓 BE CSE (Anna University)</strong> &nbsp;•&nbsp;
-<strong>💻 Full-Stack (Backend-leaning)</strong>
+<strong>💻 Software Development Engineertrong>
 </p>
 
 </div>
