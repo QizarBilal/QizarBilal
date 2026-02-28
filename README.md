@@ -25,7 +25,7 @@
 <p>
 <strong>📍 India</strong> &nbsp;•&nbsp;
 <strong>🎓 BE CSE (Anna University)</strong> &nbsp;•&nbsp;
-<strong>💻 Software Development Engineertrong>
+<strong>💻 Software Development Engineer <strong>
 </p>
 
 </div>
