@@ -1,6 +1,6 @@
 <!-- =========================================================
    Mohammed Qizar Bilal | Software Engineer | Systems Builder
-   Engineering-Focused • Recruiter-Optimized • High-Signal Profile
+   High-Signal • Engineering-Focused • Recruiter-Optimized
 ========================================================= -->
 
 <div align="center">
@@ -15,14 +15,14 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Builder;Focused+on+Real-World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Builder;Focused+on+Scalable+Systems+%26+Real-World+Impact" />
 
 <br/>
 
 <p>
-<strong>📍 India</strong> &nbsp;•&nbsp;
+<strong>📍 Tirupathur, Tamil Nadu</strong> &nbsp;•&nbsp;
 <strong>🎓 BE CSE (Anna University)</strong> &nbsp;•&nbsp;
-<strong>💻 Software Engineer</strong>
+<strong>💻 Software Development Engineer</strong>
 </p>
 
 </div>
@@ -35,23 +35,29 @@
 <tr>
 <td width="70%">
 
-I build **real, end-to-end systems** — not just projects.
+I build **scalable, real-world systems** — not just projects.
 
-My focus is on:
-- designing **scalable backend systems**
-- building **production-ready applications**
-- solving **real-world problems with structured engineering**
+My work spans across:
+- **frontend interfaces, backend systems, and APIs**
+- **data pipelines and ML-based intelligence**
+- **problem-solving using DSA and system design principles**
 
-I don’t chase trends.  
-I care about **clarity, execution, and impact**.
+I focus on:
+- clean architecture  
+- predictable system behavior  
+- performance trade-offs  
+- long-term maintainability  
+
+I approach engineering as:  
+**Problem → System → Execution → Impact**
 
 </td>
 
 <td width="30%" align="center">
 
 <img src="https://img.shields.io/badge/Role-Software%20Engineer-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Systems-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Builder-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mindset-Engineering%20First-0F172A?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -66,13 +72,13 @@ I care about **clarity, execution, and impact**.
 <td width="50%">
 
 ### 🧱 End-to-End Systems  
-Full-stack applications with strong backend architecture and clean UI.
+Production-grade applications with strong backend architecture and scalable design.
 
 </td>
 <td width="50%">
 
 ### ⚙️ Backend & APIs  
-Structured APIs, automation systems, and scalable logic design.
+RESTful services, data flow management, and system-level logic.
 
 </td>
 </tr>
@@ -80,14 +86,14 @@ Structured APIs, automation systems, and scalable logic design.
 <tr>
 <td>
 
-### 🤖 AI-Integrated Products  
-Practical AI systems that enhance workflows — not replace engineering.
+### 🤖 AI-Powered Systems  
+Practical AI/ML solutions integrated into real applications.
 
 </td>
 <td>
 
 ### 🛠 Problem-Driven Engineering  
-Every system is built to solve a **real problem**, not follow a trend.
+Every system is built to solve a **real, defined problem**.
 
 </td>
 </tr>
@@ -99,25 +105,25 @@ Every system is built to solve a **real problem**, not follow a trend.
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,flask,nodejs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
 </p>
 
 ### Engineering & Workflow
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
 <img src="https://img.shields.io/badge/System%20Design-475569?style=flat-square"/>
-<img src="https://img.shields.io/badge/OOP-1E293B?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-0F172A?style=flat-square"/>
 </p>
 
 ---
@@ -128,34 +134,36 @@ Every system is built to solve a **real problem**, not follow a trend.
 <tr>
 <td width="33%">
 
-### 🟦 Zidio Development  
-**Frontend Developer**  
-<sub>Sep 2025 – Dec 2025</sub>
+### 🟦 Webill India Pvt. Ltd.  
+**Lead Product Engineer**  
+<sub>Mar 2026 – Present</sub>
 
-- Built reusable React components and improved UI consistency  
-- Integrated APIs and handled real-time data rendering  
-- Structured frontend architecture for maintainability  
-
-</td>
-
-<td width="33%">
-
-### 🟨 IBM SkillsBuild  
-**AIML Intern**
-
-- Built end-to-end ML pipeline with data preprocessing and inference  
-- Developed and deployed Streamlit-based application  
-- Worked on model integration with real use cases  
+- Designed and built **end-to-end scalable web applications and internal systems**  
+- Engineered production-grade frontend + backend architecture  
+- Built REST APIs and handled full data flow integration  
+- Improved system scalability, reliability, and product delivery efficiency  
 
 </td>
 
 <td width="33%">
 
-### 🟪 ShadowFox Inc.  
-**Python Developer Intern**
+### 🟨 Infosys Springboard  
+**AI Intern**
 
-- Developed automation scripts reducing manual workflows  
-- Optimized backend processes using structured scripting  
+- Built **SkillMatch-AI**, an NLP-based resume-job matching system  
+- Implemented resume parsing, JD analysis, and skill gap detection  
+- Achieved high accuracy with real-world ML pipelines  
+
+</td>
+
+<td width="33%">
+
+### 🟪 Zidio Development  
+**Frontend Developer**
+
+- Built reusable component systems across multiple projects  
+- Improved performance and reduced development time significantly  
+- Implemented scalable state management and responsive UI systems  
 
 </td>
 </tr>
@@ -170,14 +178,14 @@ Every system is built to solve a **real problem**, not follow a trend.
 <td width="50%">
 
 ### 🧠 Twinstitute AI  
-AI-powered Digital Institution Twin for capability building and career intelligence.
+AI-driven Digital Institution Twin for capability engineering and career intelligence.
 
-- Multi-agent system design  
-- Personalized career roadmap engine  
-- Real-world problem: skill gap in students  
+- Multi-agent architecture (5+ AI agents)  
+- 8+ core modules with real-time tracking  
+- System-level simulation of career growth  
 
 👉 GitHub: <ADD_LINK>  
-👉 Live: <ADD_LINK>
+👉 Case Study: <ADD_LINK>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square"/>
@@ -187,17 +195,17 @@ AI-powered Digital Institution Twin for capability building and career intellige
 
 <td width="50%">
 
-### 🤖 SkillMatch AI  
-Resume intelligence system for job-role matching and skill recommendations.
+### 🤖 SkillMatch-AI  
+Resume intelligence and job-role matching system.
 
-- Resume parsing + skill extraction  
-- Matching engine with recommendation logic  
-- Structured career insights generation  
+- NLP-based resume parsing  
+- Skill gap analysis engine  
+- 85%+ matching accuracy, <2s response  
 
 👉 GitHub: <ADD_LINK>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
 
 </td>
 </tr>
@@ -205,33 +213,41 @@ Resume intelligence system for job-role matching and skill recommendations.
 <tr>
 <td width="50%">
 
-### ⚙️ AI Sahayak  
-Voice-enabled multi-module AI assistant for real-world accessibility.
+### 🌱 GreenNode  
+Sustainability tracking and environmental analytics platform.
 
-- Voice interaction system  
-- Document analysis & service discovery  
-- Modular architecture with real APIs  
+- Real-time insights and carbon tracking  
+- Data visualization and analytics pipelines  
 
 👉 GitHub: <ADD_LINK>
-
-<img src="https://img.shields.io/badge/AI-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/APIs-0F172A?style=flat-square"/>
 
 </td>
 
 <td width="50%">
 
-### 🧪 Resume Parser  
-ML + backend system for resume analysis and scoring.
+### ⚙️ Zidio Hackathon Portal  
+End-to-end hackathon management system.
 
-- ML-based scoring logic  
-- Flask backend integration  
-- Structured data extraction  
+- Automated evaluation system  
+- Scalable participant handling  
+- Full-stack architecture  
 
 👉 GitHub: <ADD_LINK>
 
-<img src="https://img.shields.io/badge/ML-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+### 🧪 MediVerse Guardian X  
+AI-powered prescription verification system.
+
+- NLP + IBM Watson + Hugging Face  
+- Real-time medical validation  
+- High error reduction in prescriptions  
+
+👉 GitHub: <ADD_LINK>
 
 </td>
 </tr>
@@ -251,7 +267,7 @@ ML + backend system for resume analysis and scoring.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://mohammed-qizar-bilal.netlify.app">
+<a href="https://qizar-bilal.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -261,6 +277,6 @@ ML + backend system for resume analysis and scoring.
 
 <div align="center">
 <sub>
-Built with intent • Focused on systems • Designed to demonstrate real engineering
+Engineering > Everything • Built with clarity, discipline, and intent
 </sub>
 </div>
