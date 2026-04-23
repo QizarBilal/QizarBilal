@@ -1,282 +1,204 @@
 <!-- =========================================================
    Mohammed Qizar Bilal | Software Engineer | Systems Builder
-   High-Signal • Engineering-Focused • Recruiter-Optimized
+   High-Signal • Visual • Recruiter-Focused GitHub Profile
 ========================================================= -->
 
-<div align="center">
+<h1 align="center">Mohammed Qizar Bilal</h1>
+<p align="center"><b>Software Engineer • Systems Builder • Problem Solver</b></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:22C55E&height=180&section=header&text=Hi%20I'm%20Mohammed%20Qizar%20Bilal&fontSize=32&fontColor=ffffff&animation=fadeIn" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/main/assets/Profile.png"
-     width="160"
-     style="border-radius:50%; border:4px solid #2563EB;" />
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=600&lines=Software+Engineer;Systems+Builder;Focused+on+Scalable+Systems+%26+Real-World+Impact" />
-
-<br/>
-
-<p>
-<strong>📍 Tirupathur, Tamil Nadu</strong> &nbsp;•&nbsp;
-<strong>🎓 BE CSE (Anna University)</strong> &nbsp;•&nbsp;
-<strong>💻 Software Development Engineer</strong>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=Building+Scalable+Systems;Problem+→+System+→+Impact;Backend+%7C+AI+%7C+Full+Stack" />
 </p>
 
-</div>
+<p align="center">
+  📍 Tirupathur, Tamil Nadu • 🎓 BE CSE (Anna University) • 💻 Open to SDE Roles
+</p>
 
 ---
 
 ## 🧠 About Me
 
-<table>
-<tr>
-<td width="70%">
-
-I build **scalable, real-world systems** — not just projects.
-
-My work spans across:
-- **frontend interfaces, backend systems, and APIs**
-- **data pipelines and ML-based intelligence**
-- **problem-solving using DSA and system design principles**
+I build **systems, not just software**.
 
 I focus on:
-- clean architecture  
-- predictable system behavior  
-- performance trade-offs  
-- long-term maintainability  
+- designing scalable backend systems  
+- building production-ready full-stack applications  
+- solving real-world problems using structured engineering  
 
-I approach engineering as:  
-**Problem → System → Execution → Impact**
+My approach:
+> **Problem → Architecture → Execution → Impact**
 
-</td>
-
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/Role-Software%20Engineer-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Scalable%20Systems-22C55E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Mindset-Engineering%20First-0F172A?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
+Currently:
+- Building **Twinstitute AI (Digital Institution Twin)**
+- Improving **DSA & System Design**
+- Working on **AI-powered real-world systems**
 
 ---
 
-## 🧩 What I Build
+## ⚙️ Tech Stack
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧱 End-to-End Systems  
-Production-grade applications with strong backend architecture and scalable design.
-
-</td>
-<td width="50%">
-
-### ⚙️ Backend & APIs  
-RESTful services, data flow management, and system-level logic.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🤖 AI-Powered Systems  
-Practical AI/ML solutions integrated into real applications.
-
-</td>
-<td>
-
-### 🛠 Problem-Driven Engineering  
-Every system is built to solve a **real, defined problem**.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,flask,mongodb,postgres,redis,docker,linux,git" />
+</p>
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Featured Projects
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql" />
+<p align="center">
+  <a href="https://github.com/QizarBilal/Twinstitute-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QizarBilal&repo=Twinstitute-AI&theme=github_dark" />
+  </a>
+  <a href="https://github.com/QizarBilal/SkillMatch-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=QizarBilal&repo=SkillMatch-AI&theme=github_dark" />
+  </a>
 </p>
 
-### Frameworks & Libraries
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,nodejs" />
-</p>
+---
 
-### Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
-</p>
+### 🧠 Twinstitute AI
+AI-powered **Digital Institution Twin** for capability engineering and career intelligence.
 
-### Engineering & Workflow
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
-<img src="https://img.shields.io/badge/System%20Design-475569?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST%20APIs-334155?style=flat-square"/>
-<img src="https://img.shields.io/badge/DSA-0F172A?style=flat-square"/>
-</p>
+- 8+ core modules with real-time tracking  
+- Multi-agent system (5+ AI agents)  
+- Personalized roadmap + capability simulation  
+
+👉 GitHub: <ADD_LINK>  
+👉 Case Study: <ADD_LINK>
+
+---
+
+### 🤖 SkillMatch-AI
+Resume intelligence system for job-role matching and skill recommendations.
+
+- NLP-based resume parsing  
+- Skill gap analysis engine  
+- 85%+ matching accuracy  
+- <2s response time  
+
+👉 GitHub: <ADD_LINK>
+
+---
+
+### ⚙️ Zidio Hackathon Portal
+Full-stack hackathon management system.
+
+- End-to-end automation  
+- Scalable participant handling  
+- Evaluation system  
+
+👉 GitHub: <ADD_LINK>
+
+---
+
+### 🌱 GreenNode
+Sustainability tracking platform with real-time insights.
+
+👉 GitHub: <ADD_LINK>
+
+---
+
+### 🧪 MediVerse Guardian X
+AI-powered prescription verification system.
+
+- NLP + IBM Watson + Hugging Face  
+- Real-time validation  
+- High error reduction  
+
+👉 GitHub: <ADD_LINK>
 
 ---
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="33%">
+### 🟦 Lead Product Engineer — Webill India Pvt. Ltd.
+Mar 2026 – Present
 
-### 🟦 Webill India Pvt. Ltd.  
-**Lead Product Engineer**  
-<sub>Mar 2026 – Present</sub>
-
-- Designed and built **end-to-end scalable web applications and internal systems**  
-- Engineered production-grade frontend + backend architecture  
-- Built REST APIs and handled full data flow integration  
-- Improved system scalability, reliability, and product delivery efficiency  
-
-</td>
-
-<td width="33%">
-
-### 🟨 Infosys Springboard  
-**AI Intern**
-
-- Built **SkillMatch-AI**, an NLP-based resume-job matching system  
-- Implemented resume parsing, JD analysis, and skill gap detection  
-- Achieved high accuracy with real-world ML pipelines  
-
-</td>
-
-<td width="33%">
-
-### 🟪 Zidio Development  
-**Frontend Developer**
-
-- Built reusable component systems across multiple projects  
-- Improved performance and reduced development time significantly  
-- Implemented scalable state management and responsive UI systems  
-
-</td>
-</tr>
-</table>
+- Built **production-grade web applications and internal systems**  
+- Designed scalable frontend + backend architecture  
+- Developed REST APIs and handled data flow integration  
+- Improved system reliability and product delivery efficiency  
 
 ---
 
-## 🚀 Projects
+### 🟨 AI Intern — Infosys Springboard
 
-<table>
-<tr>
-<td width="50%">
+- Built **SkillMatch-AI (NLP system)**  
+- Implemented resume parsing + JD analysis  
+- Developed ML pipelines with real-world datasets  
 
-### 🧠 Twinstitute AI  
-AI-driven Digital Institution Twin for capability engineering and career intelligence.
+---
 
-- Multi-agent architecture (5+ AI agents)  
-- 8+ core modules with real-time tracking  
-- System-level simulation of career growth  
+### 🟪 Frontend Developer — Zidio Development
 
-👉 GitHub: <ADD_LINK>  
-👉 Case Study: <ADD_LINK>
+- Built reusable React component systems  
+- Improved performance and reduced development time  
+- Implemented scalable state management  
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square"/>
+---
 
-</td>
+## 📊 GitHub Stats
 
-<td width="50%">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=QizarBilal&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QizarBilal&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-### 🤖 SkillMatch-AI  
-Resume intelligence and job-role matching system.
+---
 
-- NLP-based resume parsing  
-- Skill gap analysis engine  
-- 85%+ matching accuracy, <2s response  
+## 🔥 Streak
 
-👉 GitHub: <ADD_LINK>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=QizarBilal&theme=github-dark&hide_border=true" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square"/>
+---
 
-</td>
-</tr>
+## 📈 Activity Graph
 
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=QizarBilal&theme=github-dark&hide_border=true" />
+</p>
 
-### 🌱 GreenNode  
-Sustainability tracking and environmental analytics platform.
+---
 
-- Real-time insights and carbon tracking  
-- Data visualization and analytics pipelines  
+## 🏆 Achievements
 
-👉 GitHub: <ADD_LINK>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=QizarBilal&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
 
-</td>
+---
 
-<td width="50%">
+## 🐍 Contribution Snake
 
-### ⚙️ Zidio Hackathon Portal  
-End-to-end hackathon management system.
-
-- Automated evaluation system  
-- Scalable participant handling  
-- Full-stack architecture  
-
-👉 GitHub: <ADD_LINK>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2">
-
-### 🧪 MediVerse Guardian X  
-AI-powered prescription verification system.
-
-- NLP + IBM Watson + Hugging Face  
-- Real-time medical validation  
-- High error reduction in prescriptions  
-
-👉 GitHub: <ADD_LINK>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
-<div align="center">
-
-<a href="mailto:bilalqizar@gmail.com">
-<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohammed-qizar-bilal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://qizar-bilal.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:bilalqizar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-qizar-bilal">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://qizar-bilal.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-<sub>
-Engineering > Everything • Built with clarity, discipline, and intent
-</sub>
-</div>
+## ⚡ Final Note
+
+If you're reviewing my profile:
+
+Start with the **featured projects** —  
+that’s where my strongest engineering work is.
+
+---
