@@ -127,6 +127,7 @@ const mohammed = {
 
 </div>
 
+</br>
 <!-- ADDITIONAL TECH STACK TABLE -->
 <div align="center">
 <table>
@@ -234,7 +235,7 @@ const mohammed = {
 <div align="center">
 
 ### 🏗️ Twinstitute AI
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120"/>
 
 **AI-Powered Digital Institution Twin | Multi-Agent Career Development Platform**
 
@@ -354,8 +355,9 @@ Structured Output
 <div align="center">
 
 ### 🎯 Zidio Hackathon Portal
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80"/>
+  
 **Enterprise Hackathon Management Platform | Full-Stack Solution**
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QizarBilal/Zidio-Hackathon-Portal)
@@ -388,7 +390,7 @@ Structured Output
 
 **MediVerse Guardian X**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="90"/>
 
 AI-powered prescription verification system
 
@@ -401,7 +403,7 @@ AI-powered prescription verification system
 
 **GreenNode**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="90"/>
 
 Sustainability tracking platform
 
