@@ -104,7 +104,7 @@ AI-powered system simulating a full career development institution using multi-a
 **System Flow:**  
 User → API → Agent Layer → Processing Engine → Output
 
-👉 GitHub: [<ADD_LINK>  ](https://github.com/QizarBilal/Twinstitute-AI)
+👉 GitHub: (https://github.com/QizarBilal/Twinstitute-AI)
 
 ---
 
@@ -121,8 +121,8 @@ AI system for analyzing resumes and matching job roles.
 **Pipeline:**  
 Resume → NLP → Skill Extraction → Matching Engine → Insights
 
-👉 GitHub: [<ADD_LINK>  ](https://github.com/QizarBilal/SkillMatch-AI)
-👉 Demo: [<ADD_LINK>](http://qizarbilal-skillmatch-ai.hf.space/)
+👉 GitHub: (https://github.com/QizarBilal/SkillMatch-AI)
+👉 Demo: (http://qizarbilal-skillmatch-ai.hf.space/)
 
 ---
 
@@ -134,8 +134,8 @@ Full-stack system for hackathon lifecycle management.
 - Evaluation system  
 - Scalable architecture  
 
-👉 GitHub: [<ADD_LINK>](https://github.com/QizarBilal/Zidio-Hackathon-Portal)
-👉 Demo: [<ADD_LINK>](https://zidio-hackathon.netlify.app/)
+👉 GitHub: (https://github.com/QizarBilal/Zidio-Hackathon-Portal)
+👉 Demo: (https://zidio-hackathon.netlify.app/)
 
 ---
 
@@ -147,7 +147,7 @@ AI-powered prescription verification system.
 - Real-time validation  
 - Error reduction system  
 
-👉 GitHub: [<ADD_LINK>](https://github.com/QizarBilal/MediVerse-GuardianX)
+👉 GitHub: (https://github.com/QizarBilal/MediVerse-GuardianX)
 
 ---
 
@@ -155,7 +155,7 @@ AI-powered prescription verification system.
 
 Sustainability tracking platform with real-time insights.
 
-👉 GitHub: [<ADD_LINK>](https://github.com/QizarBilal/GreenNode)
+👉 GitHub: (https://github.com/QizarBilal/GreenNode)
 
 ---
 
