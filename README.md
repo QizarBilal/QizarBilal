@@ -235,7 +235,7 @@ const mohammed = {
 <div align="center">
 
 ### 🏗️ Twinstitute AI
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="110" />
 
 **AI-Powered Digital Institution Twin | Multi-Agent Career Development Platform**
 
@@ -403,7 +403,7 @@ AI-powered prescription verification system
 
 **GreenNode**
 
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="90"/>
+<img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="110"/>
 
 Sustainability tracking platform
 
