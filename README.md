@@ -5,6 +5,12 @@
 
 <!-- ================= HERO SECTION ================= -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=120&section=header"/>
+</p>
+
+---
+
 <h1 align="center">🚀 Mohammed Qizar Bilal</h1>
 
 <p align="center">
@@ -37,12 +43,6 @@
   <a href="https://qizar-bilal.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:22c55e&height=120&section=header"/>
 </p>
 
 ---
