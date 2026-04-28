@@ -532,37 +532,42 @@ achievements:
 <!-- ENGINEERING PHILOSOPHY -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="40px"/> Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 </div>
 
 <div align="center">
 <table>
 <tr>
+
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"/>
 <br><br>
 <strong>Modular Design</strong>
-<br><sub>Clean separation of concerns</sub>
+<br><sub>Separation of concerns • Reusable components</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70"/>
 <br><br>
 <strong>Scalable Architecture</strong>
-<br><sub>Built for growth</sub>
+<br><sub>Designed for growth • Distributed systems</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
 <br><br>
 <strong>Performance First</strong>
-<br><sub>Optimized for speed</sub>
+<br><sub>Low latency • Efficient resource usage</sub>
 </td>
+
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70"/>
 <br><br>
 <strong>Production Ready</strong>
-<br><sub>Deploy with confidence</sub>
+<br><sub>Reliable • Tested • Deployment-focused</sub>
 </td>
+
 </tr>
 </table>
 </div>
