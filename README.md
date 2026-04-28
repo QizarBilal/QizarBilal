@@ -6,10 +6,15 @@
 <div align="center">
 
 <!-- ANIMATED HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=MOHAMMED%20QIZAR%20BILAL&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Systems%20Engineer%20%7C%20Backend%20Architect%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=180&section=header&text=MOHAMMED%20QIZAR%20BILAL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20Engineer&descSize=18&descAlignY=55"/>
 
 <!-- DYNAMIC TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Building+Scalable+Systems+That+Matter;5%2B+Production+Projects+%E2%80%A2+Multi-Agent+AI+%E2%80%A2+Clean+Architecture;Transforming+Ideas+Into+High-Impact+Solutions" alt="Typing SVG" />
+<img 
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=700&height=60&lines=Scalable+Systems+Builder;Full-Stack+%2B+AI+Engineer;Clean+Architecture+Focused" 
+alt="Typing SVG" 
+/>
+
+<br/>
 
 <!-- PROFILE VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=QizarBilal&label=Profile%20Views&color=22c55e&style=for-the-badge" alt="Profile Views"/>
@@ -56,22 +61,24 @@
 
 ```typescript
 const mohammed = {
-  role: "AI Systems Engineer",
-  focus: ["Backend Architecture", 
-          "AI Applications", 
-          "Clean Code"],
+  role: "Software Engineer (SDE) | Full-Stack Developer | AI Engineer",
+  focus: [
+    "Scalable Backend Systems",
+    "Full-Stack Applications",
+    "AI-Powered Products"
+  ],
   approach: {
     problem: "Real-world challenges",
-    architecture: "Scalable solutions",
-    execution: "Production-ready code",
+    architecture: "Scalable & clean systems",
+    execution: "Production-ready engineering",
     impact: "Measurable results"
   },
   currentProjects: [
-    "🏗️ Twinstitute AI",
-    "🧠 Advanced DSA & System Design",
-    "🚀 Production AI Systems"
+    "Twinstitute AI (Multi-Agent System)",
+    "Advanced DSA & System Design",
+    "Full-Stack + AI Products"
   ],
-  philosophy: "Build systems, not just features"
+  philosophy: "Build systems that scale, not just features"
 };
 ```
 
@@ -227,7 +234,7 @@ const mohammed = {
 <div align="center">
 
 ### 🏗️ Twinstitute AI
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="120"/>
 
 **AI-Powered Digital Institution Twin | Multi-Agent Career Development Platform**
 
@@ -291,8 +298,9 @@ Structured Output
 <div align="center">
 
 ### 🧠 SkillMatch-AI
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80"/>
+  
 **Resume Intelligence System | NLP-Powered Job Matching**
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QizarBilal/SkillMatch-AI)
@@ -656,14 +664,7 @@ graph LR
 
 ### ⭐ Star this profile if you found it impressive!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70"/>
-
-<!-- SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/QizarBilal/QizarBilal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/QizarBilal/QizarBilal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/QizarBilal/QizarBilal/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22c55e&height=120&section=footer&text=Thanks%20for%20Visiting&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
 </div>
 
