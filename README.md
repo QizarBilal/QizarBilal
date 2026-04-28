@@ -12,10 +12,6 @@
 <h1 align="center">Mohammed Qizar Bilal</h1>
 
 <p align="center">
-  <b>AI Systems Engineer • Backend Developer • Full-Stack Builder</b>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=750&lines=AI+Systems+Engineer;Backend+Developer;Full-Stack+Builder;Building+Scalable+Systems+that+Matter" />
 </p>
 
