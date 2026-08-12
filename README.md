@@ -433,10 +433,10 @@ Sustainability tracking platform
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=QizarBilal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&ring_color=22c55e" alt="GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api?username=QizarBilal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9&ring_color=22c55e" alt="GitHub Stats"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QizarBilal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=QizarBilal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" alt="Top Languages"/>
 </td>
 </tr>
 </table>
@@ -454,7 +454,7 @@ Sustainability tracking platform
 
 <!-- TROPHIES -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=QizarBilal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+<img src="https://github-profile-trophy-fork-two.vercel.app/?username=QizarBilal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 ---
