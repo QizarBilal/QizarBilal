@@ -1,62 +1,56 @@
 <!-- ========================================================================
-   MOHAMMED QIZAR BILAL | AI SYSTEMS ENGINEER
-   Premium • Animated • Interactive • Award-Worthy Profile
+   MOHAMMED QIZAR BILAL | SOFTWARE ENGINEER
+   Premium • Animated • Component-Styled GitHub Profile
 ======================================================================== -->
 
 <div align="center">
 
-<!-- ✦ DESIGNER TOP BAR — VENOM GRADIENT + TWINKLE ✦ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0f172a,35:064e3b,70:16a34a,100:22c55e&text=MOHAMMED%20QIZAR%20BILAL&fontSize=48&fontColor=ffffff&stroke=22c55e&strokeWidth=1&animation=twinkling&desc=⚡%20SOFTWARE%20ENGINEER%20•%20FULL-STACK%20•%20AI%20SYSTEMS%20⚡&descSize=17&descAlignY=72"/>
+<!-- DESIGNER TOP BAR — DEEP GRADIENT WAVE + TWINKLE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:064e3b,70:16a34a,100:38bdf8&text=MOHAMMED%20QIZAR%20BILAL&fontSize=50&fontColor=ffffff&stroke=22c55e&strokeWidth=1&animation=twinkling&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%7C%20AI%20SYSTEMS&descSize=17&descAlignY=58"/>
 
-<!-- ✦ DUAL TYPING ANIMATION ✦ -->
+<!-- HEADLINE TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2200&pause=600&color=22C55E&center=true&vCenter=true&width=800&height=55&lines=Scalable+Systems+Builder;Full-Stack+%2B+AI+Engineer;Clean+Architecture+Focused;Shipping+Production-Ready+Software" alt="Typing SVG"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=Python+•+TypeScript+•+React+•+Next.js+•+Node.js+•+FastAPI;LangChain+•+OpenAI+•+Docker+•+AWS+•+PostgreSQL+•+Redis" alt="Stack Ticker"/>
+<!-- STACK TICKER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=Python+%E2%80%A2+TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+FastAPI;LangChain+%E2%80%A2+OpenAI+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+PostgreSQL+%E2%80%A2+Redis" alt="Stack Ticker"/>
 
-<!-- ✦ LIVE COUNTERS ✦ -->
+<!-- LIVE COUNTERS -->
 <p>
 <img src="https://komarev.com/ghpvc/?username=QizarBilal&label=PROFILE+VIEWS&color=22c55e&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/QizarBilal?label=FOLLOWERS&style=for-the-badge&color=0ea5e9&labelColor=0d1117&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/QizarBilal?label=STARS&style=for-the-badge&color=f59e0b&labelColor=0d1117&logo=apachespark&logoColor=white" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/QizarBilal?label=STARS&style=for-the-badge&color=f59e0b&labelColor=0d1117" alt="Stars"/>
 </p>
 
-<!-- ✦ SOCIAL DOCK ✦ -->
+<!-- SOCIAL DOCK -->
 <p>
   <a href="mailto:bilalqizar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937"/>
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937"/>
   </a>
   <a href="https://www.linkedin.com/in/mohammed-qizar-bilal">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937"/>
   </a>
   <a href="https://qizar-bilal.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f2937"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1f2937"/>
   </a>
   <a href="https://github.com/QizarBilal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937"/>
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937"/>
   </a>
   <a href="https://www.x.com/QizarBilal">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1f2937"/>
   </a>
 </p>
 
-<!-- ✦ LOCATION & STATUS ✦ -->
-<img src="https://img.shields.io/badge/📍_Tamil_Nadu,_India-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎓_BE_Computer_Science-1f2937?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💼_Open_to_SDE_Roles-22c55e?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- ✦ BADGE NAVIGATION BAR ✦ -->
-<a href="#-professional-summary"><img src="https://img.shields.io/badge/⬡_SUMMARY-0d1117?style=for-the-badge&color=0d1117"/></a>
-<a href="#-hiring-snapshot"><img src="https://img.shields.io/badge/⬡_HIRING_SNAPSHOT-0d1117?style=for-the-badge&color=0d1117"/></a>
-<a href="#-tech-arsenal"><img src="https://img.shields.io/badge/⬡_TECH_STACK-0d1117?style=for-the-badge&color=0d1117"/></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/⬡_PROJECTS-0d1117?style=for-the-badge&color=0d1117"/></a>
-<a href="#-professional-journey"><img src="https://img.shields.io/badge/⬡_EXPERIENCE-0d1117?style=for-the-badge&color=0d1117"/></a>
-<a href="#-lets-connect"><img src="https://img.shields.io/badge/⬡_CONTACT-22c55e?style=for-the-badge&color=22c55e"/></a>
+<!-- NAVIGATION BAR -->
+<a href="#summary"><img src="https://img.shields.io/badge/SUMMARY-22c55e?style=for-the-badge&labelColor=0d1117&color=0d1117"/></a>
+<a href="#hiring-snapshot"><img src="https://img.shields.io/badge/HIRING_SNAPSHOT-8b5cf6?style=for-the-badge&labelColor=0d1117&color=0d1117"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-06b6d4?style=for-the-badge&labelColor=0d1117&color=0d1117"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-f97316?style=for-the-badge&labelColor=0d1117&color=0d1117"/></a>
+<a href="#experience"><img src="https://img.shields.io/badge/EXPERIENCE-f59e0b?style=for-the-badge&labelColor=0d1117&color=0d1117"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-ffffff?style=for-the-badge&labelColor=22c55e&color=22c55e"/></a>
 
 </div>
 
-<!-- ✦ CONTRIBUTION SNAKE ANIMATION (requires snake.yml workflow — see repo /.github/workflows) ✦ -->
+<!-- CONTRIBUTION SNAKE (generated by .github/workflows/snake.yml) -->
 <div align="center">
 
 <picture>
@@ -67,15 +61,9 @@
 
 </div>
 
----
-
-<!-- ✦ PROFESSIONAL SUMMARY ✦ -->
+<a name="summary"></a>
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:0f172a,100:16a34a&text=📌%20PROFESSIONAL%20SUMMARY&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-## 📌 Professional Summary
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:22c55e&text=PROFESSIONAL%20SUMMARY&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -101,16 +89,11 @@ Experience spans internal product engineering, an AI internship through the Info
 </table>
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ABOUT ME SECTION WITH GIF -->
+<a name="about"></a>
 <div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"/> About Me
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:0ea5e9&text=ABOUT%20ME&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -149,19 +132,18 @@ const mohammed = {
 </table>
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ✦ HIRING SNAPSHOT — COMPONENT-STYLE BADGE TABLE ✦ -->
+<a name="hiring-snapshot"></a>
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:8b5cf6&text=HIRING%20SNAPSHOT&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+</div>
 
-## 🧾 Hiring Snapshot
+<div align="center">
 
 <table>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🎯_TARGET_ROLES-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/TARGET_ROLES-0d1117?style=for-the-badge"/></td>
 <td>
 <img src="https://img.shields.io/badge/Software_Engineer-22c55e?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/SDE-22c55e?style=flat-square&labelColor=0d1117"/>
@@ -171,11 +153,11 @@ const mohammed = {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/📈_EXPERIENCE-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EXPERIENCE-0d1117?style=for-the-badge"/></td>
 <td><img src="https://img.shields.io/badge/Early--career_engineer_with_production_%2B_internship_experience-1f2937?style=flat-square"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🧰_CORE_STACK-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CORE_STACK-0d1117?style=for-the-badge"/></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -188,7 +170,7 @@ const mohammed = {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🧠_SPECIALISATIONS-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/SPECIALISATIONS-0d1117?style=for-the-badge"/></td>
 <td>
 <img src="https://img.shields.io/badge/REST_API_Design-0ea5e9?style=flat-square&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/Backend_Architecture-0ea5e9?style=flat-square&labelColor=0d1117"/>
@@ -197,19 +179,19 @@ const mohammed = {
 </td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🎓_EDUCATION-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/EDUCATION-0d1117?style=for-the-badge"/></td>
 <td><img src="https://img.shields.io/badge/B.E._Computer_Science-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🌍_LOCATION-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/LOCATION-0d1117?style=for-the-badge"/></td>
 <td><img src="https://img.shields.io/badge/Tamil_Nadu,_India_(IST,_UTC%2B05:30)-f59e0b?style=flat-square&labelColor=0d1117"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/✅_AVAILABILITY-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/AVAILABILITY-0d1117?style=for-the-badge"/></td>
 <td><img src="https://img.shields.io/badge/Open_to_Software_Engineering_opportunities-22c55e?style=flat-square&labelColor=0d1117"/></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/📬_REACH_ME-0d1117?style=for-the-badge"/></td>
+<td align="center"><img src="https://img.shields.io/badge/REACH_ME-0d1117?style=for-the-badge"/></td>
 <td>
 <a href="mailto:bilalqizar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohammed-qizar-bilal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -221,34 +203,28 @@ const mohammed = {
 
 <!-- Optional: add a resume row here, e.g. badge linking to YOUR_RESUME_LINK -->
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- TECH STACK SECTION WITH CAROUSEL EFFECT -->
+<a name="tech-stack"></a>
 <div align="center">
-
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQ3N3d5dGVkdTR3ZmRwbDd6bHYybzN6djhxZzZid3B4MDkxdGJjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/> Tech Arsenal
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:06b6d4&text=TECH%20ARSENAL&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
-<!-- ANIMATED SKILLS SHOWCASE -->
 <div align="center">
 
-### 💻 Languages & Frameworks
+### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,express,flask,fastapi&theme=dark" />
 
-### 🗄️ Databases & Tools
+### Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,mysql,firebase,supabase&theme=dark" />
 
-### ⚙️ DevOps & Infrastructure
+### DevOps & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux,git,github,githubactions,nginx&theme=dark" />
 
-### 🤖 AI/ML & Data Science
+### AI/ML & Data Science
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -259,7 +235,7 @@ const mohammed = {
 </div>
 
 </br>
-<!-- ADDITIONAL TECH STACK TABLE — ANIMATED SVG ICONS -->
+<!-- ANIMATED SVG TECH ICONS -->
 <div align="center">
 <table>
 <tr>
@@ -301,10 +277,10 @@ const mohammed = {
 </table>
 </div>
 
-<!-- ✦ SKILLS MATRIX — COMPONENT STYLE ✦ -->
+<!-- SKILLS MATRIX -->
 <div align="center">
 
-### 🧭 Skills at a Glance
+### Skills at a Glance
 
 <table>
 <tr>
@@ -313,7 +289,7 @@ const mohammed = {
 <th><img src="https://img.shields.io/badge/APPLIED_IN-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/⚙️_Backend_%26_APIs-22c55e?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Backend_%26_APIs-22c55e?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -326,7 +302,7 @@ const mohammed = {
 <td><sub>SkillMatch-AI • Zidio Portal • MediVerse Guardian X</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🎨_Frontend-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Frontend-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -337,7 +313,7 @@ const mohammed = {
 <td><sub>Twinstitute AI • Zidio Portal • GreenNode</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🤖_AI_%2F_NLP-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/AI_%2F_NLP-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLTK-154f5b?style=flat-square"/>
@@ -349,7 +325,7 @@ const mohammed = {
 <td><sub>SkillMatch-AI • Twinstitute AI • ai-sahayak</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🗄️_Data_Layer-f59e0b?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Data_Layer-f59e0b?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -359,7 +335,7 @@ const mohammed = {
 <td><sub>Zidio Portal • Twinstitute AI</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🚀_DevOps_%26_Cloud-ef4444?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/DevOps_%26_Cloud-ef4444?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
@@ -371,7 +347,7 @@ const mohammed = {
 <td><sub>Deployment & CI workflows</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🧮_CS_Fundamentals-14b8a6?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/CS_Fundamentals-14b8a6?style=flat-square&labelColor=0d1117"/></td>
 <td>
 <img src="https://img.shields.io/badge/DSA-22c55e?style=flat-square"/>
 <img src="https://img.shields.io/badge/HLD_%2F_LLD-0ea5e9?style=flat-square"/>
@@ -383,21 +359,20 @@ const mohammed = {
 
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- RECRUITER QUICK VIEW -->
+<a name="recruiter-view"></a>
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:f59e0b&text=RECRUITER%20QUICK%20VIEW&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+</div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"/> Recruiter Quick View
+<div align="center">
 
 <table>
 <tr>
-<th><img src="https://img.shields.io/badge/🎯_CORE_STRENGTH-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/🚀_FLAGSHIP_PROJECT-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/💡_IMPACT-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/CORE_STRENGTH-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/FLAGSHIP_PROJECT-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/IMPACT-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
 <td align="center"><strong>AI Systems Architecture</strong></td>
@@ -421,11 +396,7 @@ const mohammed = {
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-### 🎖️ What Sets Me Apart
+### What Sets Me Apart
 
 <table>
 <tr>
@@ -449,19 +420,17 @@ const mohammed = {
 
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- FEATURED PROJECTS -->
+<a name="projects"></a>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:f97316&text=FEATURED%20PROJECTS&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+</div>
+
+<!-- PROJECT OVERVIEW -->
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40px"/> Featured Projects
-
-<!-- ✦ PROJECT OVERVIEW — CARD-STYLE TABLE ✦ -->
-
-### 🗂️ Project Overview
+### Project Overview
 
 <table>
 <tr>
@@ -471,37 +440,37 @@ const mohammed = {
 <th><img src="https://img.shields.io/badge/LINKS-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
-<td align="center"><strong>🏗️ Twinstitute AI</strong></td>
+<td align="center"><strong>Twinstitute AI</strong></td>
 <td><sub>Capability-engineering platform with learner digital twins, adaptive execution tasks, multi-dimensional evaluation, proof artifacts and roadmaps</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/Twinstitute-AI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a></td>
 </tr>
 <tr>
-<td align="center"><strong>🧠 SkillMatch-AI</strong></td>
+<td align="center"><strong>SkillMatch-AI</strong></td>
 <td><sub>AI-assisted résumé-to-role analyzer with explainable skill gaps, learning roadmaps and PDF reports</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/SkillMatch-AI"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a> <a href="http://qizarbilal-skillmatch-ai.hf.space/"><img src="https://img.shields.io/badge/Demo-FF6B6B?style=flat-square&logo=vercel&logoColor=white"/></a></td>
 </tr>
 <tr>
-<td align="center"><strong>🎯 Zidio Hackathon Portal</strong></td>
+<td align="center"><strong>Zidio Hackathon Portal</strong></td>
 <td><sub>Role-driven hackathon ecosystem for discovering challenges, building teams, judging projects and surfacing talent</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/Zidio-Hackathon-Portal"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a> <a href="https://zidio-hackathon.netlify.app/"><img src="https://img.shields.io/badge/Demo-0EA5E9?style=flat-square&logo=netlify&logoColor=white"/></a></td>
 </tr>
 <tr>
-<td align="center"><strong>🏥 MediVerse Guardian X</strong></td>
+<td align="center"><strong>MediVerse Guardian X</strong></td>
 <td><sub>Role-based healthcare-compliance prototype for synthetic prescription review, interaction flags, audit events and dashboards</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/><br/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/MediVerse-GuardianX"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a></td>
 </tr>
 <tr>
-<td align="center"><strong>🌱 GreenNode</strong></td>
+<td align="center"><strong>GreenNode</strong></td>
 <td><sub>Sustainability-first storefront with impact-aware carts, footprint history, rewards and explainable recommendations</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/GreenNode"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a></td>
 </tr>
 <tr>
-<td align="center"><strong>🗣️ ai-sahayak</strong></td>
+<td align="center"><strong>ai-sahayak</strong></td>
 <td><sub>Multilingual, voice-first Digital Seva companion for schemes, eligibility, market data, documents, local services and official drafts</sub></td>
 <td align="center"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></td>
 <td align="center"><a href="https://github.com/QizarBilal/ai-sahayak"><img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github"/></a></td>
@@ -515,15 +484,12 @@ const mohammed = {
 <!-- PROJECT 1: TWINSTITUTE AI -->
 <div align="center">
 
-### 🏗️ Twinstitute AI
+### Twinstitute AI
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="110" />
 
 **AI-Powered Digital Institution Twin | Multi-Agent Career Development Platform**
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/QizarBilal/Twinstitute-AI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
 </div>
 
@@ -532,7 +498,7 @@ const mohammed = {
 <tr>
 <td width="50%">
 
-**🎯 System Architecture**
+**System Architecture**
 ```
 User Request
     ↓
@@ -553,48 +519,46 @@ Structured Output
 </td>
 <td width="50%">
 
-**📊 Key Metrics**
+**Key Metrics**
 
 | Feature | Details |
 |---------|---------|
-| 🤖 Agents | 5+ Specialized |
-| 🧩 Modules | 8+ Integrated |
-| ⚡ Response | Real-time |
-| 🎯 Accuracy | High-fidelity |
-| 🔄 Scalability | Production-ready |
+| Agents | 5+ Specialized |
+| Modules | 8+ Integrated |
+| Response | Real-time |
+| Accuracy | High-fidelity |
+| Scalability | Production-ready |
 
 </td>
 </tr>
 </table>
-</div>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-fc521f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-**Tech Stack:** Python • FastAPI • LangChain • OpenAI • ChromaDB • Redis
-
-</div>
-
-<!-- PROBLEM / SOLUTION / ROLE -->
-<div align="center">
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/🧩_PROBLEM-ef4444?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/PROBLEM-ef4444?style=for-the-badge&labelColor=0d1117"/>
 
 <sub>Learners lack a unified, personalised view of their skills, progress and next steps.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/💡_SOLUTION-22c55e?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SOLUTION-22c55e?style=for-the-badge&labelColor=0d1117"/>
 
 <sub>Learner digital twins with adaptive tasks, multi-dimensional evaluation, proof artifacts and generated roadmaps.</sub>
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/🛠️_MY_ROLE-0ea5e9?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/MY_ROLE-0ea5e9?style=for-the-badge&labelColor=0d1117"/>
 
 <sub>End-to-end design and development: architecture, agent orchestration, APIs and UI.</sub>
 
@@ -608,7 +572,7 @@ Structured Output
 <!-- PROJECT 2: SKILLMATCH AI -->
 <div align="center">
 
-### 🧠 SkillMatch-AI
+### SkillMatch-AI
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80"/>
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80"/>
   
@@ -624,19 +588,19 @@ Structured Output
 <tr>
 <td width="60%">
 
-**🔍 System Capabilities**
+**System Capabilities**
 
-- ✅ **Advanced NLP Parsing**: Extract skills, experience, education
-- ✅ **Intelligent Matching**: 85%+ accuracy job-role alignment
-- ✅ **Real-time Processing**: <2s response time
-- ✅ **Multi-format Support**: PDF, DOCX, TXT
-- ✅ **Skill Gap Analysis**: Automated recommendations
-- ✅ **RESTful API**: Production-ready endpoints
+- **Advanced NLP Parsing** — extract skills, experience, education
+- **Intelligent Matching** — 85%+ accuracy job-role alignment
+- **Real-time Processing** — <2s response time
+- **Multi-format Support** — PDF, DOCX, TXT
+- **Skill Gap Analysis** — automated recommendations
+- **RESTful API** — production-ready endpoints
 
 </td>
 <td width="40%">
 
-**📈 Performance**
+**Performance**
 
 ```python
 {
@@ -651,13 +615,15 @@ Structured Output
 </td>
 </tr>
 </table>
-</div>
 
-<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-154f5b?style=flat-square"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-**Tech Stack:** Python • Flask • spaCy • NLTK • scikit-learn • HuggingFace
-
-> 🏢 Developed during the **Infosys Springboard AI Internship** &nbsp;|&nbsp; Hosted under the [Infosys-SkillMatch-AI](https://github.com/Infosys-SkillMatch-AI) organization
+> Developed during the **Infosys Springboard AI Internship** &nbsp;|&nbsp; Hosted under the [Infosys-SkillMatch-AI](https://github.com/Infosys-SkillMatch-AI) organization
 
 </div>
 
@@ -666,7 +632,7 @@ Structured Output
 <!-- PROJECT 3: ZIDIO PORTAL -->
 <div align="center">
 
-### 🎯 Zidio Hackathon Portal
+### Zidio Hackathon Portal
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80"/>
   
@@ -677,10 +643,10 @@ Structured Output
 
 <table>
 <tr>
-<th><img src="https://img.shields.io/badge/🎨_FRONTEND-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/⚙️_BACKEND-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/🗄️_DATABASE-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/🚀_DEPLOYMENT-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/FRONTEND-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/BACKEND-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/DATABASE-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/DEPLOYMENT-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
 <td align="center">
@@ -706,7 +672,11 @@ Structured Output
 </tr>
 </table>
 
-**Features:** Team Management • Real-time Leaderboards • Submission Portal • Admin Dashboard • Analytics
+<img src="https://img.shields.io/badge/Team_Management-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Real--time_Leaderboards-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Submission_Portal-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Admin_Dashboard-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analytics-1f2937?style=flat-square"/>
 
 </div>
 
@@ -715,11 +685,11 @@ Structured Output
 <!-- PROJECT 4 & 5 -->
 <div align="center">
 
-### 🏥 MediVerse Guardian X | 🌱 GreenNode
+### MediVerse Guardian X | GreenNode
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 **MediVerse Guardian X**
 
@@ -729,10 +699,12 @@ AI-powered prescription verification system
 
 [![Repo](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github)](https://github.com/QizarBilal/MediVerse-GuardianX)
 
-🔍 OCR • 🤖 AI Validation • ⚕️ Medical NLP
+<img src="https://img.shields.io/badge/OCR-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Validation-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Medical_NLP-1f2937?style=flat-square"/>
 
 </td>
-<td width="50%">
+<td width="50%" align="center">
 
 **GreenNode**
 
@@ -742,18 +714,15 @@ Sustainability tracking platform
 
 [![Repo](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github)](https://github.com/QizarBilal/GreenNode)
 
-🌍 Carbon Tracking • 📊 Analytics • 🌿 Impact Metrics
+<img src="https://img.shields.io/badge/Carbon_Tracking-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Analytics-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impact_Metrics-1f2937?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<!-- PROJECT 6: AI-SAHAYAK -->
-<div align="center">
-
-### 🗣️ ai-sahayak
+### ai-sahayak
 
 **Multilingual, Voice-First Digital Seva Companion**
 
@@ -762,20 +731,17 @@ Helps citizens navigate government schemes, eligibility, market data, documents,
 [![Repo](https://img.shields.io/badge/View-181717?style=for-the-badge&logo=github)](https://github.com/QizarBilal/ai-sahayak)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-🌐 Multilingual • 🎙️ Voice-First • 🏛️ Civic-Tech
+<img src="https://img.shields.io/badge/Multilingual-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Voice--First-1f2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Civic--Tech-1f2937?style=flat-square"/>
 
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GITHUB STATS -->
+<a name="analytics"></a>
 <div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"/> GitHub Analytics
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:14b8a6&text=GITHUB%20ANALYTICS&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -791,7 +757,7 @@ Helps citizens navigate government schemes, eligibility, market data, documents,
 </table>
 </div>
 
-<!-- ✦ PROFILE SUMMARY CARDS — DASHBOARD LOOK ✦ -->
+<!-- PROFILE SUMMARY DASHBOARD -->
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QizarBilal&theme=github_dark" width="100%" alt="Profile Details"/>
 <br/>
@@ -800,7 +766,7 @@ Helps citizens navigate government schemes, eligibility, market data, documents,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=QizarBilal&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive Time"/>
 </div>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- STREAK -->
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=QizarBilal&theme=tokyonight&hide_border=true&background=0d1117&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" alt="GitHub Streak"/>
 </div>
@@ -815,10 +781,10 @@ Helps citizens navigate government schemes, eligibility, market data, documents,
 <img src="https://github-profile-trophy.vercel.app/?username=QizarBilal&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
-<!-- GITHUB MILESTONES -->
+<!-- GITHUB ACHIEVEMENTS -->
 <div align="center">
 
-### 🏅 GitHub Achievements
+### GitHub Achievements
 
 <a href="https://github.com/QizarBilal?tab=achievements">
 <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="70" title="Pull Shark" alt="Pull Shark"/>
@@ -831,16 +797,11 @@ Helps citizens navigate government schemes, eligibility, market data, documents,
 
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- EXPERIENCE SECTION -->
+<a name="experience"></a>
 <div align="center">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40px"/> Professional Journey
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:f97316&text=PROFESSIONAL%20JOURNEY&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -896,12 +857,8 @@ achievements:
 </td>
 </tr>
 </table>
-</div>
 
-<!-- CORE COMPETENCIES -->
-<div align="center">
-
-### 🧩 What I Bring to a Team
+### What I Bring to a Team
 
 <table>
 <tr>
@@ -909,69 +866,34 @@ achievements:
 <th><img src="https://img.shields.io/badge/HOW_IT_SHOWS_UP_IN_MY_WORK-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🧭_Ownership-22c55e?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Ownership-22c55e?style=flat-square&labelColor=0d1117"/></td>
 <td><sub>Take features from requirements and design through deployment and iteration</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/⚙️_Backend_Engineering-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Backend_Engineering-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
 <td><sub>Design REST APIs, data models and services built for reliability and growth</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🤖_Applied_AI-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Applied_AI-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
 <td><sub>Turn NLP/LLM capabilities into usable, explainable product features</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/🤝_Collaboration-f59e0b?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Collaboration-f59e0b?style=flat-square&labelColor=0d1117"/></td>
 <td><sub>Pair programming, pull-request workflows and clear technical communication</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/📚_Learning_Agility-ef4444?style=flat-square&labelColor=0d1117"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Learning_Agility-ef4444?style=flat-square&labelColor=0d1117"/></td>
 <td><sub>Daily DSA and system-design practice while shipping across new stacks</sub></td>
 </tr>
 </table>
 
 </div>
 
----
-
-<!-- EDUCATION & RECOGNITION -->
-<div align="center">
-
-## 🎓 Education & Recognition
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🎓_DEGREE-0d1117?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Bachelor_of_Engineering_—_Computer_Science-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🏢_PROGRAM-0d1117?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/Infosys_Springboard_—_AI_Internship-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🌐_ORGANIZATION-0d1117?style=for-the-badge"/></td>
-<td><a href="https://github.com/Infosys-SkillMatch-AI"><img src="https://img.shields.io/badge/Infosys--SkillMatch--AI_on_GitHub-22c55e?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/></a></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🏅_GITHUB-0d1117?style=for-the-badge"/></td>
-<td><img src="https://img.shields.io/badge/43_public_repos_•_Pull_Shark_•_Pair_Extraordinaire_•_Quickdraw_•_YOLO-f59e0b?style=flat-square&labelColor=0d1117"/></td>
-</tr>
-</table>
-
-</div>
-
-<!-- Optional: add certifications / college name / graduation year rows here -->
-
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ENGINEERING PHILOSOPHY -->
+<a name="philosophy"></a>
 <div align="center">
-
-## 🧠 Engineering Philosophy
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0f172a,100:a855f7&text=ENGINEERING%20PHILOSOPHY&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
@@ -1010,57 +932,18 @@ achievements:
 </table>
 </div>
 
-<!-- HOW I WORK -->
-<div align="center">
-
-### 🔧 How I Work
-
-<table>
-<tr>
-<th><img src="https://img.shields.io/badge/PRACTICE-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/APPROACH-0d1117?style=for-the-badge"/></th>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/📐_Design_First-22c55e?style=flat-square&labelColor=0d1117"/></td>
-<td><sub>Define requirements, data models and API contracts before writing code</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🧼_Clean_Code-0ea5e9?style=flat-square&labelColor=0d1117"/></td>
-<td><sub>Readable, well-structured and documented, optimised for the next maintainer</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🌿_Version_Control-8b5cf6?style=flat-square&labelColor=0d1117"/></td>
-<td><sub>Feature branches, descriptive commits and pull-request reviews</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🧪_Quality-f59e0b?style=flat-square&labelColor=0d1117"/></td>
-<td><sub>Validation, error handling and testing built in, not added later</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/🚢_Delivery-ef4444?style=flat-square&labelColor=0d1117"/></td>
-<td><sub>Containerised, repeatable deployments with CI/CD workflows</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CURRENT FOCUS -->
+<a name="focus"></a>
 <div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px"/> Current Focus
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:0ea5e9,100:22c55e&text=CURRENT%20FOCUS&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
 </div>
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🎯 Current Goals] --> B[Advanced DSA]
+    A[Current Goals] --> B[Advanced DSA]
     A --> C[System Design]
     A --> D[AI Projects]
     B --> E[LeetCode Daily]
@@ -1073,68 +956,50 @@ graph LR
     style D fill:#f59e0b,stroke:#0f172a,color:#fff
 ```
 
-</div>
-
-<div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="150"/>
-<br><strong>🧠 DSA Mastery</strong>
+<br><strong>DSA Mastery</strong>
 <br><sub>Daily practice & problem solving</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="150"/>
-<br><strong>🏗️ System Design</strong>
+<br><strong>System Design</strong>
 <br><sub>HLD & LLD fundamentals</sub>
 </td>
 <td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="150"/>
-<br><strong>🚀 AI Innovation</strong>
+<br><strong>AI Innovation</strong>
 <br><sub>Building production systems</sub>
 </td>
 </tr>
 </table>
-</div>
 
-<!-- ✦ DEV QUOTE CARD ✦ -->
-<div align="center">
+<!-- DEV QUOTE CARD -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+
 </div>
 
----
-
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- CONNECT SECTION -->
+<a name="contact"></a>
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:16a34a,100:22c55e&text=LET%27S%20CONNECT&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+</div>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"/> Let's Connect
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 ### Open to Software Engineering Opportunities
 
-<p>
-<a href="mailto:bilalqizar@gmail.com">
-<img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/mohammed-qizar-bilal">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://qizar-bilal.vercel.app">
-<img src="https://img.shields.io/badge/View_Portfolio-10b981?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-</p>
-
-<!-- CONTACT DOCK -->
 <table>
 <tr>
-<th><img src="https://img.shields.io/badge/📧_EMAIL-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/💼_LINKEDIN-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/🌐_PORTFOLIO-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/🐦_X-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge"/></th>
+<th><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge"/></th>
 </tr>
 <tr>
 <td align="center"><a href="mailto:bilalqizar@gmail.com"><sub>bilalqizar@gmail.com</sub></a></td>
@@ -1144,7 +1009,7 @@ graph LR
 </tr>
 </table>
 
-### 📝 For Recruiters
+### For Recruiters
 
 ```diff
 + Review flagship projects (Twinstitute AI, SkillMatch-AI)
@@ -1155,37 +1020,6 @@ graph LR
 ! I build systems that solve real problems, not just demonstrate features
 ```
 
-<!-- RECRUITER CHECKLIST -->
-**⏱️ 2-Minute Review Path**
-
-<table>
-<tr>
-<th><img src="https://img.shields.io/badge/STEP-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/WHERE_TO_LOOK-0d1117?style=for-the-badge"/></th>
-<th><img src="https://img.shields.io/badge/WHAT_YOU'LL_SEE-0d1117?style=for-the-badge"/></th>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/1-22c55e?style=flat-square"/></td>
-<td><a href="#-hiring-snapshot"><sub><b>Hiring Snapshot</b></sub></a></td>
-<td><sub>Roles, stack and availability at a glance</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/2-0ea5e9?style=flat-square"/></td>
-<td><a href="#️-project-overview"><sub><b>Project Overview</b></sub></a></td>
-<td><sub>Six projects with live demos and source</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/3-8b5cf6?style=flat-square"/></td>
-<td><a href="#-professional-journey"><sub><b>Professional Journey</b></sub></a></td>
-<td><sub>Industry, internship and team experience</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/4-f59e0b?style=flat-square"/></td>
-<td><a href="https://qizar-bilal.vercel.app"><sub><b>Portfolio</b></sub></a></td>
-<td><sub>Detailed case studies and background</sub></td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -1193,19 +1027,14 @@ graph LR
 <!-- ANIMATED FOOTER -->
 <div align="center">
 
-### ⭐ Star this profile if you found it impressive!
+### Star this profile if you found it impressive
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+scrolling+all+the+way!;Let's+build+something+great+together+🚀" alt="Footer Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&height=40&lines=Let%27s+build+something+great+together" alt="Footer Typing"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:22c55e,50:16a34a,100:0f172a&section=footer&text=Thanks%20for%20Visiting&fontSize=30&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
-
-<!-- FINAL QUOTE -->
-<div align="center">
-
 > *"Building scalable systems that solve real-world problems"*
 
-<sub>Made with ❤️ and lots of ☕</sub>
+<sub>Made with care and lots of coffee</sub>
 
 </div>
